@@ -1,0 +1,1019 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,18-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,222.0,3.0,82.0,10.0,Kolkata Knight Riders,Runs,140.0,Brendon McCullum
+2,19-Apr-08,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,240.0,5.0,207.0,4.0,Chennai Super Kings,Runs,33.0,Michael Hussey
+3,19-Apr-08,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,129.0,8.0,132.0,1.0,Delhi Daredevils,Wickets,9.0,Farveez Maharoof
+4,20-Apr-08,"Eden Gardens, Kolkata",Deccan Chargers,Kolkata Knight Riders,Deccan Chargers,Bat,Group,110.0,10.0,112.0,5.0,Kolkata Knight Riders,Wickets,5.0,David Hussey
+5,20-Apr-08,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,165.0,6.0,166.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Mark Boucher
+6,21-Apr-08,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,166.0,8.0,168.0,4.0,Rajasthan Royals,Wickets,6.0,Shane Watson
+7,22-Apr-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,142.0,8.0,143.0,1.0,Delhi Daredevils,Wickets,9.0,Virender Sehwag
+8,23-Apr-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,208.0,5.0,202.0,7.0,Chennai Super Kings,Runs,6.0,Matthew Hayden
+9,24-Apr-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,214.0,5.0,217.0,7.0,Rajasthan Royals,Wickets,3.0,Yusuf Pathan
+10,25-Apr-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,182.0,10.0,116.0,9.0,Kings XI Punjab,Runs,66.0,Kumar Sangakkara
+11,26-Apr-08,"M. A Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,147.0,9.0,152.0,1.0,Chennai Super Kings,Wickets,9.0,Jacob Oram
+12,26-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,135.0,8.0,138.0,3.0,Rajasthan Royals,Wickets,7.0,Shane Watson
+13,27-Apr-08,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,158.0,8.0,162.0,6.0,Kings XI Punjab,Wickets,4.0,Simon Katich
+14,27-Apr-08,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,154.0,7.0,155.0,0.0,Deccan Chargers,Wickets,10.0,Adam Gilchrist
+15,28-Apr-08,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,178.0,5.0,165.0,10.0,Chennai Super Kings,Runs,13.0,Mahendra Singh Dhoni
+16,29-Apr-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,137.0,8.0,138.0,3.0,Mumbai Indians,Wickets,7.0,Sanath Jayasuriya
+17,30-Apr-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191.0,5.0,181.0,5.0,Delhi Daredevils,Runs,10.0,Glenn McGrath
+18,01-May-08,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,196.0,7.0,151.0,10.0,Rajasthan Royals,Runs,45.0,Swapnil Asnodkar
+19,01-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,164.0,8.0,167.0,3.0,Kings XI Punjab,Wickets,7.0,Shaun Marsh
+20,02-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,169.0,6.0,172.0,2.0,Delhi Daredevils,Wickets,8.0,Virender Sehwag
+21,03-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Field,Group,156.0,8.0,153.0,6.0,Royal Challengers Bangalore,Runs,3.0,Praveen Kumar
+22,03-May-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,178.0,6.0,169.0,6.0,Kings XI Punjab,Runs,9.0,Irfan Pathan
+23,04-May-08,"DY Patil Stadium, Navi Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,162.0,8.0,133.0,10.0,Mumbai Indians,Runs,29.0,Shaun Pollock
+24,04-May-08,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,109.0,10.0,110.0,2.0,Rajasthan Royals,Wickets,8.0,Sohail Tanvir
+25,05-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,126.0,10.0,127.0,4.0,Kings XI Punjab,Wickets,6.0,Sreesanth
+26,06-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,144.0,7.0,148.0,3.0,Deccan Chargers,Wickets,7.0,Adam Gilchrist
+27,07-May-08,"DY Patil Stadium, Navi Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,103.0,10.0,104.0,3.0,Mumbai Indians,Wickets,7.0,Ashish Nehra
+28,08-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,187.0,5.0,188.0,6.0,Chennai Super Kings,Wickets,4.0,Mahendra Singh Dhoni
+29,08-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,129.0,7.0,124.0,4.0,Kolkata Knight Riders,Runs,5.0,Sourav Ganguly
+30,09-May-08,"Sawai Mansingh Stadium, Jaipur",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,140.0,8.0,141.0,2.0,Rajasthan Royals,Wickets,8.0,Yusuf Pathan
+31,10-May-08,"M. A Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,181.0,4.0,163.0,9.0,Chennai Super Kings,Runs,18.0,Lakshmipathy Balaji
+32,11-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,204.0,4.0,181.0,7.0,Kolkata Knight Riders,Runs,23.0,Sourav Ganguly
+33,11-May-08,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,156.0,7.0,159.0,7.0,Rajasthan Royals,Wickets,3.0,Shane Watson
+34,12-May-08,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,143.0,8.0,144.0,1.0,Kings XI Punjab,Wickets,9.0,Shaun Marsh
+35,13-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,133.0,6.0,110.0,10.0,Kolkata Knight Riders,Runs,23.0,Shoaib Akhtar
+36,14-May-08,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,156.0,6.0,158.0,1.0,Mumbai Indians,Wickets,9.0,Sanath Jayasuriya
+37,15-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Group,194.0,4.0,182.0,9.0,Delhi Daredevils,Runs,12.0,Amit Mishra
+38,16-May-08,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,67.0,10.0,68.0,2.0,Mumbai Indians,Wickets,8.0,Shaun Pollock
+39,17-May-08,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,197.0,1.0,132.0,9.0,Rajasthan Royals,Runs,65.0,Graeme Smith
+40,17-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,118.0,4.0,94.0,3.0,Kings XI Punjab,Runs,6.0,Mahela Jayawardene
+41,18-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,149.0,5.0,55.0,0.0,Chennai Super Kings,Runs,3.0,Makhaya Ntini
+42,18-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,178.0,7.0,153.0,7.0,Mumbai Indians,Runs,25.0,Dwayne Bravo
+43,19-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,154.0,7.0,158.0,5.0,Delhi Daredevils,Wickets,5.0,Shreevats Goswami
+44,20-May-08,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,147.0,8.0,150.0,4.0,Rajasthan Royals,Wickets,6.0,Yusuf Pathan
+45,21-May-08,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,189.0,4.0,188.0,10.0,Kings XI Punjab,Runs,1.0,Shaun Marsh
+46,21-May-08,"M. A Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,126.0,8.0,112.0,8.0,Royal Challengers Bangalore,Runs,14.0,Anil Kumble
+47,22-May-08,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,,,,,,,,,,,
+48,23-May-08,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,175.0,4.0,178.0,4.0,Kings XI Punjab,Wickets,6.0,Shaun Marsh
+49,24-May-08,"M. A Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,211.0,5.0,201.0,7.0,Rajasthan Royals,Runs,10.0,Albie Morkel
+50,24-May-08,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,176.0,8.0,179.0,5.0,Delhi Daredevils,Wickets,5.0,Dinesh Karthik
+51,25-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Group,165.0,10.0,171.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Vinay Kumar
+52,25-May-08,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,174.0,6.0,175.0,7.0,Kolkata Knight Riders,Wickets,3.0,Umar Gul
+53,26-May-08,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,145.0,7.0,146.0,5.0,Rajasthan Royals,Wickets,5.0,Sohail Tanvir
+54,27-May-08,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Chennai Super Kings,Deccan Chargers,Bat,Group,147.0,8.0,148.0,3.0,Chennai Super Kings,Wickets,7.0,Suresh Raina
+55,28-May-08,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,122.0,9.0,126.0,1.0,Mumbai Indians,Wickets,9.0,Dilhara Fernando
+56,28-May-08,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,221.0,3.0,180.0,7.0,Kings XI Punjab,Runs,41.0,Shaun Marsh
+57,30-May-08,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Playoff,192.0,9.0,87.0,10.0,Rajasthan Royals,Runs,105.0,Shane Watson
+58,31-May-08,"Wankhede Stadium, Mumbai",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Playoff,112.0,8.0,116.0,1.0,Chennai Super Kings,Wickets,9.0,Makhaya Ntini
+59,01-Jun-08,"DY Patil Stadium, Navi Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Final,163.0,5.0,164.0,7.0,Rajasthan Royals,Wickets,3.0,Yusuf Pathan
+1,18-Apr-09,"Newlands, Cape Town",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,165.0,7.0,146.0,7.0,Mumbai Indians,Runs,19.0,Sachin Tendulkar
+2,18-Apr-09,"Newlands, Cape Town",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Group,133.0,8.0,58.0,10.0,Royal Challengers Bangalore,Runs,75.0,Rahul Dravid
+3,19-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,104.0,7.0,58.0,0.0,Delhi Daredevils,Wickets,10.0,Daniel Vettori
+4,19-Apr-09,"Newlands, Cape Town",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,101.0,10.0,104.0,2.0,Deccan Chargers,Wickets,8.0,R. P. Singh
+5,20-Apr-09,"St George's Park, Port Elizabeth",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,179.0,5.0,87.0,10.0,Chennai Super Kings,Runs,92.0,Muttiah Muralitharan
+6,21-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,158.0,6.0,79.0,1.0,Kolkata Knight Riders,Runs,11.0,Chris Gayle
+7,21-Apr-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,,,,,,,,,,,
+8,22-Apr-09,"Newlands, Cape Town",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Group,184.0,6.0,160.0,8.0,Deccan Chargers,Runs,24.0,Adam Gilchrist
+9,23-Apr-09,"Kingsmead, Durban",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Bat,Group,189.0,5.0,180.0,9.0,Delhi Daredevils,Runs,9.0,AB de Villiers
+10,23-Apr-09,"Newlands, Cape Town",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,150.0,6.0,150.0,8.0,Rajasthan Royals,Super Over,,Yusuf Pathan
+11,24-Apr-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,168.0,9.0,173.0,3.0,Kings XI Punjab,Wickets,7.0,Ravi Bopara
+12,25-Apr-09,"Kingsmead, Durban",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,168.0,9.0,156.0,7.0,Deccan Chargers,Runs,12.0,Pragyan Ojha
+13,25-Apr-09,"Newlands, Cape Town",Chennai Super Kings,Kolkata Knight Riders,,,,,,,,,,,
+14,26-Apr-09,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,149.0,7.0,153.0,4.0,Delhi Daredevils,Wickets,6.0,Tillakaratne Dilshan
+15,26-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,139.0,6.0,112.0,7.0,Kings XI Punjab,Runs,27.0,Kumar Sangakkara
+16,27-Apr-09,"Kingsmead, Durban",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,165.0,6.0,169.0,4.0,Deccan Chargers,Wickets,6.0,Herschelle Gibbs
+17,27-Apr-09,"St George's Park, Port Elizabeth",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,187.0,6.0,95.0,10.0,Mumbai Indians,Runs,92.0,Sachin Tendulkar
+18,28-Apr-09,"SuperSport Park, Centurion",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,143.0,7.0,147.0,5.0,Rajasthan Royals,Wickets,5.0,Yusuf Pathan
+19,29-Apr-09,"Kingsmead, Durban",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,139.0,6.0,143.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Mark Boucher
+20,29-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,119.0,8.0,116.0,7.0,Kings XI Punjab,Runs,3.0,Kumar Sangakkara
+21,30-Apr-09,"SuperSport Park, Centurion",Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Field,Group,148.0,9.0,150.0,4.0,Delhi Daredevils,Wickets,6.0,Dirk Nannes
+22,30-Apr-09,"SuperSport Park, Centurion",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,164.0,5.0,126.0,10.0,Chennai Super Kings,Runs,38.0,Suresh Raina
+23,01-May-09,"Buffalo Park, East London",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,148.0,6.0,139.0,6.0,Mumbai Indians,Runs,9.0,Jean - Paul Duminy
+24,01-May-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,145.0,9.0,137.0,7.0,Royal Challengers Bangalore,Runs,8.0,Yuvraj Singh
+25,02-May-09,"St George's Park, Port Elizabeth",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,141.0,5.0,142.0,7.0,Rajasthan Royals,Wickets,3.0,Yusuf Pathan
+26,02-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,163.0,10.0,145.0,8.0,Chennai Super Kings,Runs,18.0,Shadab Jakati
+27,03-May-09,"St George's Park, Port Elizabeth",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,153.0,3.0,154.0,4.0,Kings XI Punjab,Wickets,6.0,Mahela Jayawardene
+28,03-May-09,"New Wanderers Stadium, Johannesburg",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,149.0,4.0,150.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Jacques Kallis
+29,04-May-09,"Buffalo Park, East London",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,178.0,3.0,100.0,10.0,Chennai Super Kings,Runs,78.0,Mahendra Singh Dhoni
+30,05-May-09,"Kingsmead, Durban",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,211.0,4.0,133.0,8.0,Rajasthan Royals,Runs,78.0,Graeme Smith
+31,05-May-09,"Kingsmead, Durban",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,154.0,3.0,157.0,1.0,Delhi Daredevils,Wickets,9.0,Gautam Gambhir
+32,06-May-09,"SuperSport Park, Centurion",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,145.0,6.0,126.0,8.0,Deccan Chargers,Runs,19.0,Rohit Sharma
+33,07-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,105.0,10.0,107.0,3.0,Rajasthan Royals,Wickets,7.0,Amit Singh
+34,07-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,185.0,3.0,174.0,3.0,Chennai Super Kings,Runs,12.0,Matthew Hayden
+35,08-May-09,"Buffalo Park, East London",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,116.0,10.0,118.0,3.0,Delhi Daredevils,Wickets,7.0,Ashish Nehra
+36,09-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,168.0,5.0,169.0,7.0,Kings XI Punjab,Wickets,3.0,Mahela Jayawardene
+37,09-May-09,"De Beers Diamond Oval, Kimberley",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Bat,Group,141.0,3.0,140.0,7.0,Chennai Super Kings,Wickets,7.0,S. Badrinath
+38,10-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,157.0,2.0,141.0,7.0,Mumbai Indians,Runs,16.0,Jean - Paul Duminy
+39,10-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,123.0,8.0,125.0,3.0,Delhi Daredevils,Wickets,7.0,Amit Mishra
+40,11-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,166.0,7.0,113.0,10.0,Deccan Chargers,Runs,53.0,Dwayne Smith
+41,12-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Field,Group,176.0,4.0,173.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Ross Taylor
+42,12-May-09,"SuperSport Park, Centurion",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Bat,Group,122.0,2.0,199.0,9.0,Mumbai Indians,Wickets,8.0,Harbhajan Singh
+43,13-May-09,"Kingsmead, Durban",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Group,173.0,7.0,161.0,10.0,Delhi Daredevils,Runs,12.0,Rajat Bhatia
+44,14-May-09,"Kingsmead, Durban",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,129.0,10.0,132.0,8.0,Royal Challengers Bangalore,Wickets,2.0,Ross Taylor
+45,14-May-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,145.0,7.0,143.0,10.0,Rajasthan Royals,Runs,2.0,Shane Warne
+46,15-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,120.0,9.0,123.0,4.0,Kings XI Punjab,Wickets,6.0,Brett Lee
+47,16-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,147.0,5.0,151.0,3.0,Chennai Super Kings,Wickets,7.0,Matthew Hayden
+48,16-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,160.0,5.0,166.0,4.0,Deccan Chargers,Wickets,6.0,Rohit Sharma
+49,17-May-09,"New Wanderers Stadium, Johannesburg",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,134.0,7.0,133.0,8.0,Kings XI Punjab,Runs,1.0,Yuvraj Singh
+50,17-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,150.0,3.0,136.0,9.0,Delhi Daredevils,Runs,14.0,AB de Villiers
+51,18-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,188.0,3.0,189.0,3.0,Kolkata Knight Riders,Wickets,7.0,Brad Hodge
+52,19-May-09,"New Wanderers Stadium, Johannesburg",Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Bat,Group,134.0,7.0,135.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Jacques Kallis
+53,20-May-09,"Kingsmead, Durban",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,101.0,9.0,102.0,6.0,Kolkata Knight Riders,Wickets,4.0,Laxmi Ratan Shukla
+54,20-May-09,"Kingsmead, Durban",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,116.0,9.0,92.0,8.0,Chennai Super Kings,Runs,24.0,Muttiah Muralitharan
+55,21-May-09,"SuperSport Park, Centurion",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,165.0,8.0,166.0,6.0,Delhi Daredevils,Wickets,4.0,Virender Sehwag
+56,21-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Bat,Group,170.0,4.0,158.0,6.0,Royal Challengers Bangalore,Runs,12.0,Manish Pandey
+57,22-May-09,"SuperSport Park, Centurion",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Playoff,153.0,8.0,154.0,4.0,Deccan Chargers,Wickets,6.0,Adam Gilchrist
+58,23-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,146.0,6.0,149.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Manish Pandey
+59,24-May-09,"New Wanderers Stadium, Johannesburg",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Final,143.0,6.0,137.0,9.0,Deccan Chargers,Runs,6.0,Anil Kumble
+1,12-Mar-10,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,161.0,4.0,150.0,7.0,Kolkata Knight Riders,Runs,11.0,Angelo Mathews
+2,13-Mar-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,212.0,6.0,208.0,7.0,Mumbai Indians,Runs,4.0,Yusuf Pathan
+3,13-Mar-10,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,142.0,9.0,146.0,5.0,Delhi Daredevils,Wickets,5.0,Gautam Gambhir
+4,14-Mar-10,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,135.0,7.0,136.0,3.0,Kolkata Knight Riders,Wickets,7.0,Manoj Tiwary
+5,14-Mar-10,"M. A. Chidambaram Stadium, Chennai",Deccan Chargers,Chennai Super Kings,Deccan Chargers,Bat,Group,190.0,4.0,159.0,9.0,Deccan Chargers,Runs,31.0,Chaminda Vaas
+6,15-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,141.0,6.0,142.0,4.0,Delhi Daredevils,Wickets,6.0,Virender Sehwag
+7,16-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,203.0,3.0,204.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Jacques Kallis
+8,16-Mar-10,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,164.0,3.0,109.0,10.0,Chennai Super Kings,Runs,55.0,Mahendra Singh Dhoni
+9,17-Mar-10,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,218.0,7.0,120.0,10.0,Mumbai Indians,Runs,98.0,Sachin Tendulkar
+10,18-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,92.0,10.0,93.0,0.0,Royal Challengers Bangalore,Wickets,10.0,Jacques Kallis
+11,19-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Bat,Group,185.0,6.0,190.0,5.0,Chennai Super Kings,Wickets,5.0,Mathew Hayden
+12,19-Mar-10,"Barabati Stadium, Cuttack",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,170.0,7.0,164.0,8.0,Deccan Chargers,Runs,6.0,Andrew Symonds
+13,20-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,168.0,7.0,134.0,5.0,Rajasthan Royals,Runs,34.0,Abhishek Jhunjhunwala
+14,20-Mar-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,151.0,9.0,155.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Jacques Kallis
+15,21-Mar-10,"Barabati Stadium, Cuttack",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,171.0,6.0,161.0,9.0,Deccan Chargers,Runs,10.0,Andrew Symonds
+16,21-Mar-10,"M. A. Chidambaram Stadium, Chennai",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,136.0,8.0,136.0,7.0,Kings XI Punjab,Super Over,,Juan Theron
+17,22-Mar-10,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,155.0,3.0,156.0,3.0,Mumbai Indians,Wickets,7.0,Sachin Tendulkar
+18,23-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,171.0,5.0,135.0,7.0,Royal Challengers Bangalore,Runs,36.0,Robin Uthappa
+19,24-Mar-10,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,183.0,5.0,152.0,10.0,Rajasthan Royals,Runs,31.0,Adam Voges
+20,25-Mar-10,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,183.0,4.0,166.0,9.0,Delhi Daredevils,Runs,17.0,Kedar Jadhav
+21,25-Mar-10,"Brabourne Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,180.0,2.0,181.0,5.0,Mumbai Indians,Wickets,5.0,Sachin Tendulkar
+22,26-Mar-10,"Sardar Patel Stadium, Ahmedabad",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,148.0,9.0,151.0,2.0,Rajasthan Royals,Wickets,8.0,Yusuf Pathan
+23,27-Mar-10,"Punjab Cricket Association Stadium, Mohali",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,183.0,5.0,144.0,6.0,Kolkata Knight Riders,Runs,39.0,Manoj Tiwary
+24,28-Mar-10,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,177.0,8.0,160.0,6.0,Rajasthan Royals,Runs,17.0,Naman Ojha
+25,28-Mar-10,"DY Patil Stadium, Mumbai",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,172.0,7.0,131.0,10.0,Mumbai Indians,Runs,41.0,Harbhajan Singh
+26,29-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,177.0,4.0,137.0,9.0,Delhi Daredevils,Runs,40.0,David Warner
+27,30-Mar-10,"Brabourne Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,163.0,10.0,164.0,6.0,Mumbai Indians,Wickets,4.0,Lasith Malinga
+28,31-Mar-10,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,161.0,4.0,162.0,5.0,Chennai Super Kings,Wickets,5.0,Murali Vijay
+29,31-Mar-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,188.0,6.0,121.0,10.0,Delhi Daredevils,Runs,67.0,Dinesh Karthik
+30,01-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,181.0,6.0,157.0,5.0,Kolkata Knight Riders,Runs,24.0,Sourav Ganguly
+31,02-Apr-10,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,181.0,5.0,184.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Kevin Pietersen
+32,03-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,246.0,5.0,223.0,5.0,Chennai Super Kings,Runs,23.0,Murali Vijay
+33,03-Apr-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Deccan Chargers,Mumbai Indians,Bat,Group,178.0,5.0,115.0,10.0,Mumbai Indians,Runs,63.0,Ambati Rayudu
+34,04-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,200.0,3.0,204.0,2.0,Kings XI Punjab,Wickets,8.0,Mahela Jayawardene
+35,04-Apr-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Bat,Group,184.0,5.0,147.0,9.0,Delhi Daredevils,Runs,37.0,Paul Collingwood
+36,05-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Bat,Group,159.0,10.0,157.0,10.0,Rajasthan Royals,Runs,2.0,Shane Warne
+37,06-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,165.0,4.0,141.0,9.0,Chennai Super Kings,Runs,24.0,Suresh Raina
+38,07-Apr-10,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,153.0,6.0,157.0,1.0,Rajasthan Royals,Wickets,9.0,Michael Lumb
+39,07-Apr-10,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,181.0,3.0,167.0,8.0,Kolkata Knight Riders,Runs,14.0,Sourav Ganguly
+40,08-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,Field,Group,184.0,6.0,186.0,3.0,Deccan Chargers,Wickets,7.0,Tirumalasetti Suman
+41,09-Apr-10,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,154.0,9.0,158.0,4.0,Kings XI Punjab,Wickets,6.0,Kumar Sangakkara
+42,10-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,138.0,8.0,139.0,4.0,Deccan Chargers,Wickets,6.0,Ryan Harris
+43,10-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,160.0,9.0,162.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Brendon McCullum
+44,11-Apr-10,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,111.0,10.0,112.0,3.0,Kings XI Punjab,Wickets,7.0,Piyush Chawla
+45,11-Apr-10,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,174.0,5.0,137.0,8.0,Mumbai Indians,Runs,37.0,Sachin Tendulkar
+46,12-Apr-10,"Vidarbha Cricket Association Stadium, Nagpur",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,151.0,6.0,138.0,10.0,Deccan Chargers,Runs,13.0,Harmeet Singh
+47,13-Apr-10,"Brabourne Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,183.0,4.0,144.0,7.0,Mumbai Indians,Runs,39.0,Kieron Pollard
+48,13-Apr-10,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,139.0,8.0,143.0,1.0,Chennai Super Kings,Wickets,9.0,Ravichandran Ashwin
+49,14-Apr-10,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,130.0,6.0,132.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Kevin Pietersen
+50,15-Apr-10,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,112.0,9.0,113.0,4.0,Delhi Daredevils,Wickets,6.0,Gautam Gambhir
+51,16-Apr-10,"HPCA Cricket Stadium, Dharamsala",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,174.0,3.0,178.0,5.0,Deccan Chargers,Wickets,5.0,Rohit Sharma
+52,17-Apr-10,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191.0,4.0,134.0,9.0,Mumbai Indians,Runs,57.0,Ryan McLaren
+53,17-Apr-10,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,132.0,9.0,133.0,2.0,Kolkata Knight Riders,Wickets,8.0,Jaydev Unadkat
+54,18-Apr-10,"HPCA Cricket Stadium, Dharamsala",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,192.0,3.0,195.0,4.0,Chennai Super Kings,Wickets,6.0,Mahendra Singh Dhoni
+55,18-Apr-10,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,145.0,7.0,134.0,7.0,Deccan Chargers,Runs,11.0,Andrew Symonds
+56,19-Apr-10,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,133.0,8.0,135.0,1.0,Kolkata Knight Riders,Wickets,9.0,Murali Kartik
+57,21-Apr-10,"DY Patil Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Playoff,184.0,5.0,149.0,9.0,Mumbai Indians,Runs,35.0,Kieron Pollard
+58,22-Apr-10,"DY Patil Stadium, Mumbai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Playoff,142.0,7.0,104.0,10.0,Chennai Super Kings,Runs,38.0,Doug Bollinger
+59,24-Apr-10,"DY Patil Stadium, Mumbai",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Playoff,82.0,10.0,86.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Anil Kumble
+60,25-Apr-10,"DY Patil Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Final,168.0,5.0,146.0,9.0,Chennai Super Kings,Runs,22.0,Suresh Raina
+1,08-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,153.0,4.0,151.0,7.0,Chennai Super Kings,Runs,2.0,Srikkanth Anirudha
+2,09-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Rajasthan Royals,Rajasthan Royals,Field,Group,137.0,8.0,141.0,2.0,Rajasthan Royals,Wickets,8.0,Siddharth Trivedi
+3,09-04-2011,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Bat,Group,161.0,5.0,162.0,4.0,Royal Challengers Bangalore,Wickets,6.0,AB de Villiers
+4,10-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,95.0,10.0,99.0,2.0,Mumbai Indians,Wickets,8.0,Lasith Malinga
+5,10-04-2011,"DY Patil Stadium, Mumbai",Kings XI Punjab,Pune Warriors India,Kings XI Punjab,Bat,Group,112.0,8.0,113.0,3.0,Pune Warriors India,Wickets,7.0,Shrikant Wagh
+6,11-04-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,163.0,4.0,154.0,8.0,Kolkata Knight Riders,Runs,9.0,Jacques Kallis
+7,12-04-2011,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,151.0,6.0,152.0,4.0,Rajasthan Royals,Wickets,6.0,Shane Warne
+8,12-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,140.0,4.0,143.0,1.0,Mumbai Indians,Wickets,9.0,Sachin Tendulkar
+9,13-04-2011,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,188.0,4.0,193.0,4.0,Kings XI Punjab,Wickets,6.0,Paul Valthaty
+10,13-04-2011,"DY Patil Stadium, Mumbai",Kochi Tuskers Kerala,Pune Warriors India,Kochi Tuskers Kerala,Bat,Group,148.0,8.0,151.0,6.0,Pune Warriors India,Wickets,4.0,Mohnish Mishra
+11,14-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,175.0,5.0,142.0,9.0,Deccan Chargers,Runs,33.0,Dale Steyn
+12,15-04-2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,159.0,4.0,160.0,1.0,Kolkata Knight Riders,Wickets,9.0,Gautam Gambhir
+13,15-04-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,182.0,2.0,184.0,2.0,Kochi Tuskers Kerala,Wickets,8.0,Brendon McCullum
+14,16-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,183.0,5.0,162.0,7.0,Chennai Super Kings,Runs,21.0,Michael Hussey
+15,16-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,165.0,8.0,166.0,2.0,Kings XI Punjab,Wickets,8.0,Paul Valthaty
+16,17-04-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Delhi Daredevils,Delhi Daredevils,Field,Group,187.0,5.0,190.0,7.0,Delhi Daredevils,Wickets,3.0,Yuvraj Singh
+17,17-04-2011,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,81.0,10.0,85.0,2.0,Kolkata Knight Riders,Wickets,8.0,Lakshmipathy Balaji
+18,18-04-2011,"Jawaharlal Nehru Stadium, Kochi",Chennai Super Kings,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,131.0,4.0,135.0,3.0,Kochi Tuskers Kerala,Wickets,7.0,Brendon McCullum
+19,19-04-2011,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,168.0,4.0,152.0,7.0,Deccan Chargers,Runs,16.0,Sunny Sohal
+20,19-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,,,,,,,,,,,
+21,20-04-2011,"Wankhede Stadium, Mumbai",Pune Warriors India,Mumbai Indians,Pune Warriors India,Bat,Group,118.0,10.0,124.0,3.0,Mumbai Indians,Wicket,7.0,Munaf Patel
+22,20-04-2011,"Eden Gardens, Kolkata",Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,132.0,7.0,126.0,9.0,Kochi Tuskers Kerala,Runs,6.0,Mahela Jayawardene
+23,21-04-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,195.0,7.0,147.0,7.0,Kings XI Punjab,Runs,48.0,Shaun Marsh
+24,22-04-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,171.0,5.0,175.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Chris Gayle
+25,22-04-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,164.0,4.0,156.0,9.0,Mumbai Indians,Runs,8.0,Harbhajan Singh
+26,23-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,231.0,4.0,202.0,6.0,Delhi Daredevils,Runs,29.0,David Warner
+27,24-04-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Deccan Chargers,Deccan Chargers,Field,Group,172.0,4.0,135.0,8.0,Mumbai Indians,Runs,37.0,Lasith Malinga
+28,24-04-2011,"Sawai Mansingh Stadium, Jaipur",Kochi Tuskers Kerala,Rajasthan Royals,Rajasthan Royals,Field,Group,109.0,10.0,111.0,2.0,Rajasthan Royals,Wickets,8.0,Shane Warne
+29,25-04-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Pune Warriors India,Pune Warriors India,Field,Group,142.0,6.0,117.0,9.0,Chennai Super Kings,Runs,25.0,Michael Hussey
+30,26-04-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,160.0,6.0,161.0,7.0,Royal Challengers Bangalore,Wickets,3.0,Virat Kohli
+31,27-04-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Chennai Super Kings,Pune Warriors India,Bat,Group,141.0,6.0,145.0,2.0,Chennai Super Kings,Wickets,8.0,Doug Bollinger
+32,27-04-2011,"Jawaharlal Nehru Stadium, Kochi",Deccan Chargers,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,129.0,6.0,74.0,10.0,Deccan Chargers,Runs,55.0,Ishant Sharma
+33,28-04-2011,"Feroz Shah Kotla, Delhi",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,148.0,7.0,131.0,9.0,Kolkata Knight Riders,Runs,17.0,Manoj Tiwary
+34,29-04-2011,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,94.0,8.0,95.0,3.0,Rajasthan Royals,Wickets,7.0,Johan Botha
+35,29-04-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,181.0,5.0,155.0,5.0,Royal Challengers Bangalore,Runs,26.0,Virat Kohli
+36,30-04-2011,"Jawaharlal Nehru Stadium, Kochi",Delhi Daredevils,Kochi Tuskers Kerala,Delhi Daredevils,Bat,Group,157.0,7.0,119.0,10.0,Delhi Daredevils,Runs,38.0,Virender Sehwag
+37,30-04-2011,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,119.0,6.0,120.0,2.0,Kolkata Knight Riders,Wickets,8.0,Iqbal Abdulla
+38,01-05-2011,"Sawai Mansingh Stadium, Jaipur",Pune Warriors India,Rajasthan Royals,Rajasthan Royals,Field,Group,143.0,7.0,144.0,4.0,Rajasthan Royals,Wickets,6.0,Ross Taylor
+39,01-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,165.0,5.0,146.0,8.0,Chennai Super Kings,Runs,19.0,Albie morkel
+40,02-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,159.0,5.0,136.0,8.0,Mumbai Indians,Runs,23.0,Kieron Pollard
+41,02-05-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,140.0,6.0,141.0,3.0,Kochi Tuskers Kerala,Wickets,7.0,Prasanth Parameswaran
+42,03-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,169.0,4.0,149.0,6.0,Kolkata Knight Riders,Runs,20.0,Yusuf Pathan
+43,04-05-2011,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,147.0,6.0,149.0,2.0,Chennai Super Kings,Wickets,8.0,Michael Hussey
+44,04-05-2011,"DY Patil Stadium, Mumbai",Mumbai Indians,Pune Warriors India,Pune Warriors India,Field,Group,160.0,7.0,139.0,7.0,Mumbai Indians,Runs,21.0,Rahul Sharma
+45,05-05-2011,"Jawaharlal Nehru Stadium, Kochi",Kochi Tuskers Kerala,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,156.0,5.0,139.0,7.0,Kochi Tuskers Kerala,Runs,17.0,Brad Hodge
+46,05-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Field,Group,175.0,5.0,179.0,6.0,Delhi Daredevils,Wickets,4.0,Virender Sehwag
+47,06-05-2011,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,205.0,6.0,120.0,9.0,Royal Challengers Bangalore,Runs,85.0,Chris Gayle
+48,07-05-2011,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,114.0,4.0,61.0,2.0,Kolkata Knight Riders,Runs,10.0,Iqbal Abdulla
+49,07-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,178.0,4.0,146.0,10.0,Mumbai Indians,Runs,32.0,Ambati Rayudu
+50,08-05-2011,"M. Chinnaswamy Stadium, Bangalore",Kochi Tuskers Kerala,Royal Challengers Bangalore,Kochi Tuskers Kerala,Bat,Group,125.0,9.0,128.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Chris Gayle
+51,08-05-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Pune Warriors India,Kings XI Punjab,Bat,Group,119.0,8.0,120.0,5.0,Pune Warriors India,Wickets,5.0,Rahul Sharma
+52,09-05-2011,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,196.0,3.0,133.0,10.0,Chennai Super Kings,Runs,63.0,Murali Vijay
+53,10-05-2011,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,136.0,8.0,137.0,4.0,Pune Warriors India,Wickets,6.0,Mitchell Marsh
+54,10-05-2011,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,163.0,8.0,87.0,10.0,Kings XI Punjab,Runs,76.0,Bhargav Bhatt
+55,11-05-2011,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,146.0,6.0,151.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Sreenath Aravind
+56,12-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,176.0,4.0,158.0,6.0,Chennai Super Kings,Runs,18.0,Mahendra Singh Dhoni
+57,13-05-2011,"Holkar Cricket Stadium, Indore",Kochi Tuskers Kerala,Kings XI Punjab,Kings XI Punjab,Field,Group,178.0,7.0,181.0,4.0,Kings XI Punjab,Wickets,6.0,Dinesh Karthik
+58,14-05-2011,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,89.0,4.0,105.0,6.0,Royal Challengers Bangalore,Wickets,4.0,Chris Gayle
+59,14-05-2011,"Wankhede Stadium, Mumbai",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,135.0,6.0,125.0,8.0,Deccan Chargers,Runs,10.0,Amit Mishra
+60,15-05-2011,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,170.0,6.0,141.0,8.0,Kings XI Punjab,Runs,29.0,Piyush Chawla
+61,15-05-2011,"Holkar Cricket Stadium, Indore",Rajasthan Royals,Kochi Tuskers Kerala,Kochi Tuskers Kerala,Field,Group,97.0,10.0,98.0,2.0,Kochi Tuskers Kerala,Wickets,8.0,Brad Hodge
+62,16-05-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Deccan Chargers,Deccan Chargers,Field,Group,136.0,9.0,138.0,4.0,Deccan Chargers,Wickets,6.0,Amit Mishra
+63,17-05-2011,"HPCA Stadium, Dharamsala",Kings XI Punjab,Royal Challengers Bangalore,Kings XI Punjab,Bat,Group,232.0,2.0,121.0,10.0,Kings XI Punjab,Runs,111.0,Adam Gilchrist
+64,18-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kochi Tuskers Kerala,Chennai Super Kings,Bat,Group,152.0,5.0,141.0,5.0,Chennai Super Kings,Runs,11.0,Wriddhiman Saha
+65,19-05-2011,"DY Patil Stadium, Mumbai",Pune Warriors India,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,118.0,7.0,119.0,3.0,Kolkata Knight Riders,Wickets,7.0,Yusuf Pathan
+66,20-05-2011,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,133.0,5.0,134.0,0.0,Rajasthan Royals,Wickets,10.0,Shane Watson
+67,21-05-2011,"HPCA Stadium, Dharamsala",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,198.0,2.0,116.0,10.0,Deccan Chargers,Runs,82.0,Shikhar Dhawan
+68,21-05-2011,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Pune Warriors India,Delhi Daredevils,Bat,Group,56.0,3.0,,,,,,
+69,22-05-2011,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,128.0,8.0,129.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Chris Gayle
+70,22-05-2011,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,175.0,7.0,178.0,5.0,Mumbai Indians,Wickets,5.0,James Franklin
+71,24-05-2011,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Playoff,175.0,4.0,177.0,4.0,Chennai Super Kings,Wickets,6.0,Suresh Raina
+72,25-05-2011,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Playoff,147.0,7.0,148.0,6.0,Mumbai Indians,Wickets,4.0,Munaf Patel
+73,27-05-2011,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Playoff,185.0,4.0,142.0,8.0,Royal Challengers Bangalore,Runs,43.0,Chris Gayle
+74,28-05-2011,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Final,205.0,5.0,147.0,8.0,Chennai Super Kings,Runs,58.0,Murali Vijay
+1,04-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,112.0,10.0,115.0,2.0,Mumbai Indians,Wickets,8.0,Richard Levi
+2,05-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,97.0,9.0,100.0,2.0,Delhi Daredevils,Wickets,8.0,Irfan Pathan
+3,06-04-2012,"Wankhede Stadium, Mumbai",Pune Warriors India,Mumbai Indians,Mumbai Indians,Field,Group,129.0,9.0,101.0,9.0,Pune Warriors India,Runs,28.0,Steve Smith
+4,06-04-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,191.0,4.0,160.0,9.0,Rajasthan Royals,Runs,31.0,Ajinkya Rahane
+5,07-04-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,157.0,8.0,137.0,7.0,Royal Challengers Bangalore,Runs,20.0,AB de Villiers
+6,07-04-2012,"ACA-VDCA Stadium, Visakhapatnam",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,193.0,6.0,119.0,10.0,Chennai Super Kings,Runs,74.0,Ravindra Jadeja
+7,08-04-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,164.0,5.0,142.0,10.0,Rajasthan Royals,Runs,22.0,Brad Hodge
+8,08-04-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Bat,Group,166.0,6.0,144.0,8.0,Pune Warriors India,Runs,22.0,Marlon Samuels
+9,09-04-2012,"ACA-VDCA Stadium, Visakhapatnam",Deccan Chargers,Mumbai Indians,Mumbai Indians,Bat,Group,138.0,9.0,142.0,5.0,Mumbai Indians,Wickets,5.0,Rohit Sharma
+10,10-04-2012,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,165.0,8.0,123.0,9.0,Kolkata Knight Riders,Runs,42.0,Lakshmipathy Balaji
+11,10-04-2012,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,110.0,8.0,111.0,2.0,Delhi Daredevils,Wickets,8.0,Morne Morkel
+12,11-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,197.0,6.0,170.0,10.0,Mumbai Indians,Runs,27.0,Kieron Pollard
+13,12-04-2012,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,205.0,8.0,208.0,5.0,Chennai Super Kings,Wickets,5.0,Francois du Plessis
+14,12-04-2012,"Punjab Cricket Association Stadium, Mohali",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Field,Group,115.0,10.0,116.0,3.0,Kings XI Punjab,Wickets,7.0,Dimitri Mascarenhas
+15,13-04-2012,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,131.0,5.0,137.0,5.0,Kolkata Knight Riders,Wickets,5.0,Shakib Al Hasan
+16,14-04-2012,"Subrata Roy Sahara Stadium, Pune",Chennai Super Kings,Pune Warriors India,Chennai Super Kings,Bat,Group,155.0,5.0,156.0,3.0,Pune Warriors India,Wickets,7.0,Jesse Ryder
+17,15-04-2012,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,134.0,9.0,132.0,7.0,Kings XI Punjab,Runs,2.0,Sunil Narine
+18,15-04-2012,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,195.0,2.0,136.0,10.0,Rajasthan Royals,Runs,59.0,Ajinkya Rahane
+19,16-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,92.0,10.0,93.0,3.0,Delhi Daredevils,Wickets,7.0,Shahbaz Nadeem
+20,17-04-2012,"Sawai Mansingh Stadium, Jaipur",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,196.0,2.0,197.0,5.0,Rajasthan Royals,Wickets,5.0,Brad Hodge
+21,17-04-2012,"M. Chinnaswamy Stadium, Bangalore",Pune Warriors India,Royal Challengers Bangalore,Pune Warriors India,Bat,Group,182.0,6.0,186.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Chris Gayle
+22,18-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,124.0,7.0,127.0,2.0,Kolkata Knight Riders,Wickets,8.0,Gautam Gambhir
+23,19-04-2012,"Feroz Shah Kotla, Delhi",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,157.0,8.0,162.0,5.0,Delhi Daredevils,Wickets,5.0,Kevin Pietersen
+24,19-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Pune Warriors India,Pune Warriors India,Field,Group,164.0,5.0,151.0,7.0,Chennai Super Kings,Runs,13.0,Nuwan Kulasekara
+25,20-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,163.0,6.0,166.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Chris Gayle
+26,21-04-2012,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,146.0,4.0,147.0,3.0,Chennai Super Kings,Wickets,7.0,Francois du Plessis
+27,21-04-2012,"Feroz Shah Kotla, Delhi",Pune Warriors India,Delhi Daredevils,Delhi Daredevils,Field,Group,192.0,3.0,172.0,7.0,Pune Warriors India,Runs,20.0,Sourav Ganguly
+28,22-04-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,163.0,6.0,164.0,4.0,Kings XI Punjab,Wickets,6.0,Shaun Marsh
+29,22-04-2012,"Barabati Stadium, Cuttack",Deccan Chargers,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,126.0,7.0,127.0,5.0,Kolkata Knight Riders,Wickets,5.0,Brett Lee
+30,23-04-2012,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,189.0,3.0,143.0,7.0,Royal Challengers Bangalore,Runs,46.0,AB de Villiers
+31,24-04-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Delhi Daredevils,Pune Warriors India,Bat,Group,146.0,2.0,148.0,2.0,Delhi Daredevils,Wickets,8.0,Virender Sehwag
+32,24-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Deccan Chargers,,,,,,,,,,,
+33,25-04-2012,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,168.0,3.0,171.0,6.0,Mumbai Indians,Wickets,4.0,Ambati Rayudu
+34,25-04-2012,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,,,,,,,,,
+35,26-04-2012,"Subrata Roy Sahara Stadium, Pune",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,177.0,4.0,159.0,7.0,Deccan Chargers,Runs,18.0,Cameron White
+36,27-04-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,207.0,5.0,170.0,9.0,Delhi Daredevils,Runs,37.0,Virender Sehwag
+37,28-04-2012,"M. A. Chidambaram Stadium, Chennai",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Group,156.0,8.0,149.0,8.0,Kings XI Punjab,Runs,7.0,Mandeep Singh
+38,28-04-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,190.0,4.0,143.0,6.0,Kolkata Knight Riders,Runs,47.0,Gautam Gambhir
+39,29-04-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,152.0,6.0,151.0,3.0,Delhi Daredevils,Runs,1.0,Virender Sehwag
+40,29-04-2012,"Wankhede Stadium, Mumbai",Deccan Chargers,Mumbai Indians,Mumbai Indians,Field,Group,100.0,10.0,101.0,5.0,Mumbai Indians,Wickets,5.0,Dale Steyn
+41,30-04-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,139.0,5.0,140.0,5.0,Kolkata Knight Riders,Wickets,5.0,Gautam Gambhir
+42,01-05-2012,"Barabati Stadium, Cuttack",Deccan Chargers,Pune Warriors India,Deccan Chargers,Bat,Group,186.0,4.0,173.0,5.0,Deccan Chargers,Runs,13.0,Kumar Sangakkara
+43,01-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,141.0,6.0,144.0,4.0,Delhi Daredevils,Wickets,6.0,Pawan Negi
+44,02-05-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,158.0,5.0,163.0,6.0,Kings XI Punjab,Wickets,4.0,Azhar Mahmood
+45,03-05-2012,"Subrata Roy Sahara Stadium, Pune",Mumbai Indians,Pune Warriors India,Mumbai Indians,Bat,Group,120.0,9.0,119.0,6.0,Mumbai Indians,Runs,1.0,Lasith Malinga
+46,04-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,160.0,6.0,150.0,5.0,Chennai Super Kings,Runs,10.0,Suresh Raina
+47,05-05-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,150.0,6.0,143.0,8.0,Kolkata Knight Riders,Runs,7.0,Sunil Narine
+48,05-05-2012,"Punjab Cricket Association Stadium, Mohali",Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Bat,Group,177.0,6.0,134.0,8.0,Rajasthan Royals,Runs,43.0,Shane Watson
+49,06-05-2012,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,173.0,8.0,174.0,8.0,Mumbai Indians,Wickets,2.0,Dwayne Smith
+50,06-05-2012,"M. Chinnaswamy Stadium, Bangalore",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181.0,2.0,185.0,5.0,Royal Challengers Bangalore,Wickets,5.0,AB de Villiers
+51,07-05-2012,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,153.0,9.0,154.0,4.0,Kolkata Knight Riders,Wickets,6.0,Jacques Kallis
+52,08-05-2012,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Rajasthan Royals,Pune Warriors India,Bat,Group,125.0,6.0,126.0,3.0,Rajasthan Royals,Wickets,7.0,Shane Watson
+53,08-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,170.0,5.0,145.0,8.0,Kings XI Punjab,Runs,25.0,Mandeep Singh
+54,09-05-2012,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,141.0,6.0,142.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Chris Gayle
+55,10-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Delhi Daredevils,Deccan Chargers,Bat,Group,187.0,4.0,193.0,1.0,Delhi Daredevils,Wickets,9.0,David Warner
+56,10-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,Group,126.0,6.0,127.0,6.0,Chennai Super Kings,Wickets,4.0,Ben Hilfenhaus
+57,11-05-2012,"Subrata Roy Sahara Stadium, Pune",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,173.0,3.0,138.0,9.0,Royal Challengers Bangalore,Runs,35.0,Chris Gayle
+58,12-05-2012,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,182.0,1.0,155.0,4.0,Mumbai Indians,Runs,27.0,Rohit Sharma
+59,12-05-2012,"M. A. Chidambaram Stadium, Chennai",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,114.0,5.0,115.0,1.0,Chennai Super Kings,Wickets,9.0,Ben Hilfenhaus
+60,13-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Pune Warriors India,Rajasthan Royals,Bat,Group,170.0,4.0,125.0,9.0,Rajasthan Royals,Runs,45.0,Ajit Chandila
+61,13-05-2012,"Punjab Cricket Association Stadium, Mohali",Deccan Chargers,Kings XI Punjab,Deccan Chargers,Bat,Group,190.0,4.0,194.0,6.0,Kings XI Punjab,Wickets,4.0,David Hussey
+62,14-05-2012,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,171.0,6.0,173.0,5.0,Mumbai Indians,Wickets,5.0,Ambati Rayudu
+63,14-05-2012,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,158.0,6.0,160.0,5.0,Chennai Super Kings,Wickets,5.0,Michael Hussey
+64,15-05-2012,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Bat,Group,136.0,8.0,140.0,5.0,Delhi Daredevils,Wickets,5.0,Umesh Yadav
+65,16-05-2012,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,140.0,7.0,108.0,10.0,Kolkata Knight Riders,Runs,32.0,Sunil Narine
+66,17-05-2012,"HPCA Stadium, Dharamsala",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,120.0,7.0,123.0,4.0,Kings XI Punjab,Wickets,6.0,Adam Gilchrist
+67,17-05-2012,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,215.0,1.0,194.0,9.0,Royal Challengers Bangalore,Runs,21.0,Chris Gayle
+68,18-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Deccan Chargers,Rajasthan Royals,Bat,Group,126.0,8.0,128.0,5.0,Deccan Chargers,Wickets,5.0,Dale Steyn
+69,19-05-2012,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,141.0,8.0,145.0,4.0,Delhi Daredevils,Wickets,6.0,Umesh Yadav
+70,19-05-2012,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,136.0,4.0,102.0,8.0,Kolkata Knight Riders,Runs,34.0,Shakib Al Hasan
+71,20-05-2012,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,132.0,7.0,123.0,9.0,Deccan Chargers,Runs,9.0,Dale Steyn
+72,20-05-2012,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,162.0,6.0,163.0,0.0,Mumbai Indians,Wickets,10.0,Dwayne Smith
+73,22-05-2012,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Playoff,162.0,4.0,144.0,8.0,Kolkata Knight Riders,Runs,18.0,Yusuf Pathan
+74,23-05-2012,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Playoff,187.0,5.0,149.0,9.0,Chennai Super Kings,Runs,38.0,Mahendra Singh Dhoni
+75,25-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Playoff,222.0,5.0,136.0,10.0,Chennai Super Kings,Runs,86.0,Murali Vijay
+76,27-05-2012,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Final,190.0,3.0,192.0,5.0,Kolkata Knight Riders,Wickets,5.0,Manvinder Bisla
+1,03-04-2013,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,128.0,10.0,129.0,4.0,Kolkata Knight Riders,Wickets,6.0,Sunil Narine
+2,04-04-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,156.0,5.0,154.0,5.0,Royal Challengers Bangalore,Runs,2.0,Chris Gayle
+3,05-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Pune Warriors India,Pune Warriors India,Field,Group,126.0,6.0,104.0,10.0,Sunrisers Hyderabad,Runs,22.0,Amit Mishra
+4,06-04-2013,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Daredevils,Rajasthan Royals,Bat,Group,165.0,7.0,160.0,6.0,Rajasthan Royals,Runs,5.0,Rahul Dravid
+5,06-04-2013,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,148.0,6.0,139.0,9.0,Mumbai Indians,Runs,9.0,Kieron Pollard
+6,07-04-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Kings XI Punjab,Pune Warriors India,Bat,Group,99.0,9.0,100.0,2.0,Kings XI Punjab,Wickets,8.0,Manan Vohra
+7,07-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,Group,130.0,8.0,130.0,7.0,Sunrisers Hyderabad,Super Over,,Hanuma Vihari
+8,08-04-2013,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,144.0,6.0,125.0,10.0,Rajasthan Royals,Runs,19.0,Siddharth Trivedi
+9,09-04-2013,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Group,161.0,6.0,162.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Virat Kohli
+10,09-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,209.0,5.0,165.0,9.0,Mumbai Indians,Runs,44.0,Dinesh Karthik
+11,10-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,138.0,10.0,139.0,0.0,Chennai Super Kings,Wickets,10.0,Michael Hussey
+12,11-04-2013,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,154.0,8.0,158.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Chris Gayle
+13,11-04-2013,"Subrata Roy Sahara Stadium, Pune",Rajasthan Royals,Pune Warriors India,Rajasthan Royals,Bat,Group,145.0,5.0,148.0,3.0,Pune Warriors India,Wickets,7.0,Aaron Finch
+14,12-04-2013,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,114.0,8.0,115.0,7.0,Sunrisers Hyderabad,Wickets,3.0,Amit Mishra
+15,13-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Pune Warriors India,Mumbai Indians,Bat,Group,183.0,3.0,142.0,8.0,Mumbai Indians,Runs,41.0,Rohit Sharma
+16,13-04-2013,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,165.0,6.0,166.0,6.0,Chennai Super Kings,Wickets,4.0,Ravindra Jadeja
+17,14-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,180.0,4.0,132.0,7.0,Kolkata Knight Riders,Runs,48.0,Gautam Gambhir
+18,14-04-2013,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,124.0,10.0,126.0,4.0,Rajasthan Royals,Wickets,6.0,James Faulkner
+19,15-04-2013,"M. A. Chidambaram Stadium, Chennai",Pune Warriors India,Chennai Super Kings,Pune Warriors India,Bat,Group,159.0,5.0,135.0,8.0,Pune Warriors India,Runs,24.0,Steve Smith
+20,16-04-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,157.0,9.0,153.0,9.0,Kings XI Punjab,Runs,4.0,Manpreet Gony
+21,16-04-2013,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,152.0,5.0,152.0,7.0,Royal Challengers Bangalore,Super Over,,Virat Kohli
+22,17-04-2013,"Subrata Roy Sahara Stadium, Pune",Sunrisers Hyderabad,Pune Warriors India,Pune Warriors India,Field,Group,119.0,8.0,108.0,10.0,Sunrisers Hyderabad,Runs,11.0,Amit Mishra
+23,17-04-2013,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,179.0,3.0,92.0,10.0,Rajasthan Royals,Runs,87.0,Ajinkya Rahane
+24,18-04-2013,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,169.0,4.0,83.0,10.0,Chennai Super Kings,Runs,86.0,Michael Hussey
+25,19-04-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,123.0,9.0,127.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Hanuma Vihari
+26,20-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,119.0,9.0,124.0,6.0,Chennai Super Kings,Wickets,4.0,Ravindra Jadeja
+27,20-04-2013,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,117.0,10.0,123.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Vinay Kumar
+28,21-04-2013,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,161.0,4.0,165.0,1.0,Delhi Daredevils,Wickets,9.0,Virender Sehwag
+29,21-04-2013,"Punjab Cricket Association Stadium, Mohali",Pune Warriors India,Kings XI Punjab,Kings XI Punjab,Field,Group,185.0,4.0,186.0,3.0,Kings XI Punjab,Wickets,7.0,David Miller
+30,22-04-2013,"M. A. Chidambaram Stadium, Chennai",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,185.0,4.0,186.0,5.0,Chennai Super Kings,Wickets,5.0,Michael Hussey
+31,23-04-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Pune Warriors India,Pune Warriors India,Field,Group,263.0,5.0,133.0,9.0,Royal Challengers Bangalore,Runs,130.0,Chris Gayle
+32,23-04-2013,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,120.0,7.0,121.0,5.0,Kings XI Punjab,Wickets,5.0,Harmeet Singh
+33,24-04-2013,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,159.0,6.0,162.0,5.0,Mumbai Indians,Wickets,5.0,Dwayne Smith
+34,25-04-2013,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,159.0,6.0,160.0,5.0,Chennai Super Kings,Wickets,5.0,Mahendra Singh Dhoni
+35,26-04-2013,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,149.0,6.0,150.0,4.0,Kolkata Knight Riders,Wickets,6.0,Jacques Kallis
+36,27-04-2013,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,144.0,9.0,146.0,2.0,Rajasthan Royals,Wickets,8.0,James Faulkner
+37,27-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,194.0,7.0,136.0,7.0,Mumbai Indians,Runs,58.0,Dwayne Smith
+38,28-04-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,200.0,3.0,186.0,4.0,Chennai Super Kings,Runs,14.0,Michael Hussey
+39,28-04-2013,"Raipur International Cricket Stadium, Raipur",Delhi Daredevils,Pune Warriors India,Pune Warriors India,Field,Group,164.0,5.0,149.0,4.0,Delhi Daredevils,Runs,15.0,David Warner
+40,29-04-2013,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,171.0,6.0,173.0,6.0,Rajasthan Royals,Wickets,4.0,Sanju Samson
+41,29-04-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,174.0,3.0,170.0,10.0,Mumbai Indians,Runs,4.0,Rohit Sharma
+42,30-04-2013,"Subrata Roy Sahara Stadium, Pune",Chennai Super Kings,Pune Warriors India,Chennai Super Kings,Bat,Group,164.0,3.0,127.0,9.0,Chennai Super Kings,Runs,37.0,Mahendra Singh Dhoni
+43,01-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,129.0,4.0,130.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Ishant Sharma
+44,01-05-2013,"Raipur International Cricket Stadium, Raipur",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,136.0,7.0,137.0,3.0,Delhi Daredevils,Wickets,7.0,David Warner
+45,02-05-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,186.0,4.0,171.0,6.0,Chennai Super Kings,Runs,15.0,Suresh Raina
+46,02-05-2013,"Subrata Roy Sahara Stadium, Pune",Royal Challengers Bangalore,Pune Warriors India,Royal Challengers Bangalore,Bat,Group,187.0,3.0,170.0,9.0,Royal Challengers Bangalore,Runs,17.0,AB de Villiers
+47,03-05-2013,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,132.0,6.0,133.0,2.0,Kolkata Knight Riders,Wickets,8.0,Yusuf Pathan
+48,04-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,80.0,10.0,81.0,4.0,Sunrisers Hyderabad,Wickets,6.0,Darren Sammy
+49,05-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,139.0,5.0,79.0,10.0,Mumbai Indians,Runs,60.0,Mitchell Johnson
+50,05-05-2013,"Sawai Mansingh Stadium, Jaipur",Pune Warriors India,Rajasthan Royals,Pune Warriors India,Bat,Group,178.0,4.0,182.0,5.0,Rajasthan Royals,Wickets,5.0,Ajinkya Rahane
+51,06-05-2013,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,190.0,3.0,194.0,4.0,Kings XI Punjab,Wickets,6.0,David Miller
+52,07-05-2013,"Sawai Mansingh Stadium, Jaipur",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,154.0,4.0,155.0,1.0,Rajasthan Royals,Wickets,9.0,Ajinkya Rahane
+53,07-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,170.0,6.0,105.0,10.0,Mumbai Indians,Runs,65.0,Sachin Tendulkar
+54,08-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,223.0,3.0,146.0,8.0,Chennai Super Kings,Runs,77.0,Suresh Raina
+55,09-05-2013,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,145.0,6.0,147.0,2.0,Rajasthan Royals,Wickets,8.0,Kevon Cooper
+56,09-05-2013,"Subrata Roy Sahara Stadium, Pune",Kolkata Knight Riders,Pune Warriors India,Kolkata Knight Riders,Bat,Group,152.0,6.0,106.0,10.0,Kolkata Knight Riders,Runs,46.0,Gautam Gambhir
+57,10-05-2013,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,183.0,4.0,179.0,7.0,Royal Challengers Bangalore,Runs,4.0,Jaydev Unadkat
+58,11-05-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Mumbai Indians,Pune Warriors India,Bat,Group,112.0,8.0,116.0,5.0,Mumbai Indians,Wickets,5.0,Mitchell Johnson
+59,11-05-2013,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150.0,7.0,120.0,9.0,Sunrisers Hyderabad,Runs,30.0,Parthiv Patel
+60,12-05-2013,"JSCA International Cricket Stadium, Ranchi",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,115.0,9.0,116.0,5.0,Kolkata Knight Riders,Wickets,5.0,Jacques Kallis
+61,12-05-2013,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,141.0,4.0,144.0,5.0,Rajasthan Royals,Wickets,5.0,Shane Watson
+62,13-05-2013,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat,Group,178.0,3.0,184.0,3.0,Mumbai Indians,Wickets,7.0,Kieron Pollard
+63,14-05-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,174.0,5.0,176.0,3.0,Kings XI Punjab,Wickets,7.0,Adam Gilchrist
+64,14-05-2013,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,168.0,4.0,135.0,9.0,Chennai Super Kings,Runs,33.0,Mahendra Singh Dhoni
+65,15-05-2013,"JSCA International Cricket Stadium, Ranchi",Pune Warriors India,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,170.0,4.0,163.0,7.0,Pune Warriors India,Runs,7.0,Manish Pandey
+66,15-05-2013,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,166.0,8.0,152.0,7.0,Mumbai Indians,Runs,14.0,Aditya Tare
+67,16-05-2013,"HPCA Stadium, Dharamsala",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,171.0,4.0,164.0,7.0,Kings XI Punjab,Runs,7.0,David Miller
+68,17-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,136.0,9.0,113.0,9.0,Sunrisers Hyderabad,Runs,23.0,Amit Mishra
+69,18-05-2013,"HPCA Stadium, Dharamsala",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,183.0,8.0,133.0,10.0,Kings XI Punjab,Runs,50.0,Azhar Mahmood
+70,18-05-2013,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,106.0,2.0,82.0,6.0,Royal Challengers Bangalore,Runs,24.0,Virat Kohli
+71,19-05-2013,"Subrata Roy Sahara Stadium, Pune",Pune Warriors India,Delhi Daredevils,Pune Warriors India,Bat,Group,172.0,5.0,134.0,9.0,Pune Warriors India,Runs,38.0,Luke Wright
+72,19-05-2013,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,130.0,7.0,132.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Parthiv Patel
+73,21-05-2013,"Feroz Shah Kotla, Delhi",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Playoff,192.0,1.0,144.0,10.0,Chennai Super Kings,Runs,48.0,Michael Hussey
+74,22-05-2013,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Playoff,132.0,7.0,135.0,6.0,Rajasthan Royals,Wickets,4.0,Brad Hodge
+75,24-05-2013,"Eden Gardens, Kolkata",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Playoff,165.0,6.0,169.0,6.0,Mumbai Indians,Wickets,4.0,Harbhajan Singh
+76,26-05-2013,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Final,148.0,9.0,125.0,9.0,Mumbai Indians,Runs,23.0,Kieron Pollard
+1,16-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,163.0,5.0,122.0,7.0,Kolkata Knight Riders,Runs,41.0,Jacques Kallis
+2,17-04-2014,Sharjah Cricket Stadium,Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,145.0,4.0,146.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Yuzvendra Chahal
+3,18-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,205.0,4.0,206.0,4.0,Kings XI Punjab,Wickets,6.0,Glenn Maxwell
+4,18-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,133.0,6.0,135.0,6.0,Rajasthan Royals,Wickets,4.0,Ajinkya Rahane
+5,19-04-2014,Dubai International Cricket Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,115.0,9.0,116.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Parthiv Patel
+6,19-04-2014,Dubai International Cricket Stadium,Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,166.0,5.0,167.0,6.0,Delhi Daredevils,Wickets,4.0,JP Duminy
+7,20-04-2014,Sharjah Cricket Stadium,Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,191.0,5.0,193.0,3.0,Kings XI Punjab,Wickets,7.0,Glenn Maxwell
+8,21-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,177.0,7.0,84.0,10.0,Chennai Super Kings,Runs,93.0,Suresh Raina
+9,22-04-2014,Sharjah Cricket Stadium,Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,193.0,6.0,121.0,10.0,Kings XI Punjab,Runs,72.0,Glenn Maxwell
+10,23-04-2014,Dubai International Cricket Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,140.0,6.0,133.0,10.0,Chennai Super Kings,Runs,7.0,Ravindra Jadeja
+11,24-04-2014,Sharjah Cricket Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,150.0,7.0,148.0,5.0,Kolkata Knight Riders,Runs,2.0,Chris Lynn
+12,25-04-2014,Dubai International Cricket Stadium,Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Bat,Group,184.0,1.0,180.0,4.0,Sunrisers Hyderabad,Runs,4.0,Aaron Finch
+13,25-04-2014,Dubai International Cricket Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,141.0,7.0,142.0,3.0,Chennai Super Kings,Wickets,7.0,Mohit Sharma
+14,26-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,70.0,10.0,71.0,4.0,Rajasthan Royals,Wickets,6.0,Pravin Tambe
+15,26-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,132.0,9.0,109.0,10.0,Kings XI Punjab,Runs,23.0,Sandeep Sharma
+16,27-04-2014,Sharjah Cricket Stadium,Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,125.0,6.0,126.0,4.0,Delhi Daredevils,Wickets,6.0,Murali Vijay
+17,27-04-2014,Sharjah Cricket Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,145.0,5.0,146.0,5.0,Chennai Super Kings,Wickets,5.0,Dwayne Smith
+18,28-04-2014,Dubai International Cricket Stadium,Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,124.0,8.0,127.0,5.0,Kings XI Punjab,Wickets,5.0,Sandeep Sharma
+19,29-04-2014,"Sheikh Zayed Stadium, Abu Dhabi",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,152.0,5.0,152.0,8.0,Rajasthan Royals,Boundary count,,James Faulkner
+20,30-04-2014,Dubai International Cricket Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,172.0,5.0,157.0,7.0,Sunrisers Hyderabad,Runs,15.0,Bhuvneshwar Kumar
+21,02-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,148.0,3.0,114.0,9.0,Chennai Super Kings,Runs,34.0,Ravindra Jadeja
+22,03-05-2014,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,168.0,5.0,170.0,5.0,Mumbai Indians,Wickets,5.0,Corey Anderson
+23,03-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,152.0,5.0,156.0,3.0,Rajasthan Royals,Wickets,7.0,Karun Nair
+24,04-05-2014,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,155.0,6.0,158.0,6.0,Royal Challengers Bangalore,Wickets,4.0,AB de Villiers
+25,05-05-2014,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,170.0,6.0,160.0,6.0,Rajasthan Royals,Runs,10.0,Pravin Tambe
+26,05-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,178.0,5.0,181.0,2.0,Chennai Super Kings,Wickets,8.0,Dwayne Smith
+27,06-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,187.0,5.0,168.0,8.0,Mumbai Indians,Runs,19.0,Rohit Sharma
+28,07-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,160.0,5.0,161.0,2.0,Kolkata Knight Riders,Wickets,8.0,Gautam Gambhir
+29,07-05-2014,"Barabati Stadium, Cuttack",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,231.0,4.0,187.0,6.0,Kings XI Punjab,Runs,44.0,Glenn Maxwell
+30,08-05-2014,"Sardar Patel Stadium, Ahmedabad",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,134.0,9.0,102.0,10.0,Sunrisers Hyderabad,Runs,32.0,Bhuvneshwar Kumar
+31,09-05-2014,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,198.0,8.0,166.0,9.0,Kings XI Punjab,Runs,32.0,Sandeep Sharma
+32,10-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,143.0,7.0,44.0,2.0,Sunrisers Hyderabad,Wickets,8.0,Dale Steyn
+33,10-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,157.0,6.0,160.0,6.0,Chennai Super Kings,Wickets,4.0,Dwayne Smith
+34,11-05-2014,"Barabati Stadium, Cuttack",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,149.0,8.0,150.0,1.0,Kolkata Knight Riders,Wickets,9.0,Gautam Gambhir
+35,11-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Group,190.0,5.0,191.0,5.0,Rajasthan Royals,Wickets,5.0,James Faulkner
+36,12-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat,Group,157.0,3.0,160.0,3.0,Mumbai Indians,Wickets,7.0,Ambati Rayudu
+37,13-05-2014,"JSCA International Cricket Stadium, Ranchi",Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,Bat,Group,148.0,8.0,149.0,5.0,Chennai Super Kings,Wickets,5.0,Ravindra Jadeja
+38,13-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,186.0,4.0,170.0,7.0,Royal Challengers Bangalore,Runs,16.0,Yuvraj Singh
+39,14-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,205.0,5.0,211.0,4.0,Kings XI Punjab,Wickets,6.0,Wriddhiman Saha
+40,14-05-2014,"Barabati Stadium, Cuttack",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,141.0,5.0,142.0,4.0,Kolkata Knight Riders,Wickets,6.0,Robin Uthappa
+41,15-05-2014,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,201.0,6.0,139.0,9.0,Rajasthan Royals,Runs,62.0,Ajinkya Rahane
+42,18-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,138.0,4.0,142.0,5.0,Royal Challengers Bangalore,Wickets,5.0,AB de Villiers
+43,18-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,142.0,8.0,146.0,3.0,Kolkata Knight Riders,Wickets,7.0,Umesh Yadav
+44,19-05-2014,"Sardar Patel Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,178.0,3.0,153.0,8.0,Mumbai Indians,Runs,25.0,Michael Hussey
+45,19-05-2014,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,164.0,7.0,165.0,6.0,Kings XI Punjab,Wickets,4.0,Axar Patel
+46,20-05-2014,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,Group,160.0,6.0,161.0,3.0,Sunrisers Hyderabad,Wickets,7.0,David Warner
+47,20-05-2014,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,154.0,4.0,156.0,2.0,Kolkata Knight Riders,Wickets,8.0,Robin Uthappa
+48,21-05-2014,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,156.0,8.0,159.0,3.0,Mumbai Indians,Wickets,7.0,Lendl Simmons
+49,22-05-2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,195.0,4.0,165.0,5.0,Kolkata Knight Riders,Runs,30.0,Robin Uthappa
+50,22-05-2014,"JSCA International Cricket Stadium, Ranchi",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,185.0,3.0,189.0,4.0,Sunrisers Hyderabad,Wickets,6.0,David Warner
+51,23-05-2014,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,173.0,10.0,158.0,4.0,Mumbai Indians,Runs,15.0,Michael Hussey
+52,23-05-2014,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,179.0,4.0,163.0,8.0,Kings XI Punjab,Runs,16.0,Shaun Marsh
+53,24-05-2014,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,154.0,6.0,160.0,2.0,Chennai Super Kings,Wickets,8.0,Mahendra Singh Dhoni
+54,24-05-2014,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160.0,7.0,161.0,6.0,Kolkata Knight Riders,Wickets,4.0,Yusuf Pathan
+55,25-05-2014,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,115.0,10.0,119.0,3.0,Kings XI Punjab,Wickets,7.0,Manan Vohra
+56,25-05-2014,"Wankhede Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,189.0,4.0,195.0,5.0,Mumbai Indians,Wickets,5.0,Corey Anderson
+57,28-05-2014,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Playoff,163.0,8.0,135.0,8.0,Kolkata Knight Riders,Runs,28.0,Umesh Yadav
+58,28-05-2014,"Brabourne Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Playoff,173.0,8.0,176.0,3.0,Chennai Super Kings,Wickets,7.0,Suresh Raina
+59,30-05-2014,"Wankhede Stadium, Mumbai",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Playoff,226.0,6.0,202.0,7.0,Kings XI Punjab,Runs,24.0,Virender Sehwag
+60,01-06-2014,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Final,199.0,4.0,200.0,7.0,Kolkata Knight Riders,Wickets,3.0,Manish Pandey
+1,08-04-2015,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,168.0,3.0,170.0,3.0,Kolkata Knight Riders,Wickets,7.0,Morne Morkel
+2,09-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,150.0,7.0,149.0,9.0,Chennai Super Kings,Run,1.0,Ashish Nehra
+3,10-04-2015,"MCA Stadium, Pune",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,162.0,7.0,136.0,8.0,Rajasthan Royals,Runs,26.0,James Faulkner
+4,11-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Bat,Group,209.0,4.0,164.0,6.0,Chennai Super Kings,Runs,45.0,Brendon McCullum
+5,11-04-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,177.0,6.0,179.0,7.0,Royal Challengers Bangalore,Wickets,3.0,Chris Gayle
+6,12-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,184.0,3.0,186.0,7.0,Rajasthan Royals,Wickets,3.0,Deepak Hooda
+7,12-04-2015,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,177.0,5.0,159.0,7.0,Kings XI Punjab,Runs,18.0,George Bailey
+8,13-04-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,166.0,10.0,172.0,2.0,Sunrisers Hyderabad,Wickets,8.0,David Warner 
+9,14-04-2015,"Sardar Patel Stadium, Ahmedabad",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,164.0,5.0,165.0,3.0,Rajasthan Royals,Wickets,7.0,Steve Smith
+10,15-04-2015,"MCA Stadium, Pune",Kings XI Punjab,Delhi Daredevils,Kings XI Punjab,Bat,Group,165.0,7.0,169.0,5.0,Delhi Daredevils,Wickets,5.0,Mayank Agarwal
+11,16-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,127.0,5.0,131.0,4.0,Rajasthan Royals,Wickets,6.0,Ajinkya Rahane
+12,17-04-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,183.0,7.0,189.0,4.0,Chennai Super Kings,Wickets,6.0,Ashish Nehra
+13,18-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,167.0,4.0,163.0,8.0,Delhi Daredevils,Runs,4.0,JP Duminy
+14,18-04-2015,"MCA Stadium, Pune",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,155.0,9.0,159.0,6.0,Kolkata Knight Riders,Wickets,4.0,Andre Russell
+15,19-04-2015,"Sardar Patel Stadium, Ahmedabad",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,156.0,4.0,157.0,2.0,Rajasthan Royals,Wickets,8.0,Ajinkya Rahane
+16,19-04-2015,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,209.0,7.0,191.0,7.0,Mumbai Indians,Runs,18.0,Harbhajan Singh
+17,20-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,146.0,8.0,147.0,4.0,Kolkata Knight Riders,Wickets,6.0,Umesh Yadav
+18,21-04-2015,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,191.0,6.0,191.0,6.0,Kings XI Punjab,Super Over,,Shaun Marsh
+19,22-04-2015,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176.0,4.0,101.0,4.0,Sunrisers Hyderabad,Runs,16.0,David Warner 
+20,22-04-2015,"M. Chinnaswamy Stadium, Bangalore",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181.0,8.0,154.0,8.0,Chennai Super Kings,Runs,27.0,Suresh Raina
+21,23-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,190.0,4.0,153.0,9.0,Delhi Daredevils,Runs,37.0,Shreyas Iyer
+22,24-04-2015,"Sardar Patel Stadium, Ahmedabad",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,130.0,9.0,134.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Mitchell Starc
+23,25-04-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,157.0,8.0,137.0,8.0,Mumbai Indians,Runs,20.0,Lasith Malinga
+24,25-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,192.0,3.0,95.0,9.0,Chennai Super Kings,Runs,97.0,Brendon McCullum
+25,26-04-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,,,,,,,,,,,
+26,26-04-2015,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,95.0,10.0,99.0,0.0,Royal Challengers Bangalore,Wickets,10.0,Varun Aaron
+27,27-04-2015,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150.0,6.0,130.0,9.0,Sunrisers Hyderabad,Runs,20.0,Trent Boult
+28,28-04-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,134.0,6.0,132.0,9.0,Chennai Super Kings,Runs,2.0,Dwayne Bravo
+29,29-04-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,200.0,7.0,,,,,,
+30,30-04-2015,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,165.0,9.0,169.0,3.0,Kolkata Knight Riders,Wickets,7.0,Andre Russell
+31,01-05-2015,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,118.0,8.0,119.0,1.0,Delhi Daredevils,Wickets,9.0,Nathan Coulter-Nile
+32,01-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,187.0,5.0,179.0,7.0,Mumbai Indians,Runs,8.0,Ambati Rayudu
+33,02-05-2015,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,111.0,4.0,115.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Mandeep Singh
+34,02-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,192.0,7.0,170.0,6.0,Sunrisers Hyderabad,Runs,22.0,David Warner 
+35,03-05-2015,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,172.0,3.0,149.0,7.0,Mumbai Indians,Runs,23.0,Lendl Simmons
+36,03-05-2015,"Brabourne Stadium, Mumbai",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,189.0,2.0,175.0,7.0,Rajasthan Royals,Runs,14.0,Ajinkya Rahane
+37,04-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,148.0,9.0,124.0,10.0,Chennai Super Kings,Runs,24.0,Suresh Raina
+38,04-05-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,167.0,7.0,132.0,9.0,Kolkata Knight Riders,Runs,35.0,Umesh Yadav
+39,05-05-2015,"Wankhede Stadium, Mumbai",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,152.0,6.0,153.0,5.0,Mumbai Indians,Wickets,5.0,Harbhajan Singh
+40,06-05-2015,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,226.0,3.0,88.0,10.0,Royal Challengers Bangalore,Runs,138.0,Chris Gayle
+41,07-05-2015,"Brabourne Stadium, Mumbai",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,201.0,4.0,194.0,7.0,Sunrisers Hyderabad,Runs,7.0,Eoin Morgan
+42,07-05-2015,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,171.0,7.0,158.0,6.0,Kolkata Knight Riders,Runs,13.0,Piyush Chawla
+43,08-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,158.0,5.0,159.0,4.0,Mumbai Indians,Wickets,6.0,Hardik Pandya
+44,09-05-2015,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kings XI Punjab,Bat,Group,183.0,5.0,184.0,9.0,Kolkata Knight Riders,Wickets,1.0,Andre Russell
+45,09-05-2015,"Chhattisgarh International Cricket Stadium, Raipur",Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Bat,Group,163.0,4.0,157.0,4.0,Sunrisers Hyderabad,Runs,6.0,Moises Henriques
+46,10-05-2015,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Bat,Group,235.0,1.0,196.0,7.0,Royal Challengers Bangalore,Runs,39.0,AB de Villiers
+47,10-05-2015,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,157.0,5.0,145.0,9.0,Chennai Super Kings,Runs,12.0,Ravindra Jadeja
+48,11-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Bat,Group,185.0,5.0,180.0,7.0,Sunrisers Hyderabad,Runs,5.0,David Warner 
+49,12-05-2015,"Chhattisgarh International Cricket Stadium, Raipur",Chennai Super Kings,Delhi Daredevils,Chennai Super Kings,Bat,Group,119.0,6.0,120.0,4.0,Delhi Daredevils,Wickets,6.0,Zaheer Khan
+50,13-05-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,106.0,6.0,84.0,6.0,Kings XI Punjab,Runs,22.0,Axar Patel
+51,14-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,171.0,4.0,166.0,7.0,Mumbai Indians,Runs,5.0,Hardik Pandya
+52,15-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Group,135.0,3.0,83.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Virat Kohli
+53,16-05-2015,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Group,130.0,7.0,134.0,3.0,Chennai Super Kings,Wickets,7.0,Pawan Negi
+54,16-05-2015,"Brabourne Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,Bat,Group,199.0,6.0,190.0,9.0,Rajasthan Royals,Runs,9.0,Shane Watson
+55,17-05-2015,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,187.0,5.0,2.0,0.0,,,,
+56,17-05-2015,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,Bat,Group,113.0,10.0,114.0,1.0,Mumbai Indians,Wickets,9.0,Mitchell McClenaghan
+57,19-05-2015,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Playoff,187.0,6.0,162.0,10.0,Mumbai Indians,Runs,25.0,Kieron Pollard
+58,20-05-2015,"MCA Stadium, Pune",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Playoff,180.0,4.0,109.0,10.0,Royal Challengers Bangalore,Runs,71.0,AB de Villiers
+59,22-05-2015,"JSCA International Cricket Stadium, Ranchi",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Playoff,139.0,8.0,140.0,7.0,Chennai Super Kings,Wickets,3.0,Ashish Nehra
+60,24-05-2015,"Eden Gardens, Kolkata",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Final,202.0,5.0,161.0,8.0,Mumbai Indians,Runs,41.0,Rohit Sharma
+1,09-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Bat,Group,121.0,8.0,126.0,1.0,Rising Pune Supergiants,Wickets,9.0,Ajinkya Rahane
+2,10-04-2016,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,98.0,10.0,99.0,1.0,Kolkata Knight Riders,Wickets,9.0,Andre Russell
+3,11-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,161.0,6.0,162.0,5.0,Gujarat Lions,Wickets,5.0,Aaron Finch
+4,12-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,227.0,4.0,182.0,6.0,Royal Challengers Bangalore,Runs,45.0,AB de Villiers
+5,13-04-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,187.0,5.0,188.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+6,14-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,Bat,Group,163.0,5.0,164.0,3.0,Gujarat Lions,Wickets,7.0,Aaron Finch
+7,15-04-2016,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,111.0,9.0,113.0,2.0,Delhi Daredevils,Wickets,8.0,Amit Mishra
+8,16-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,142.0,7.0,146.0,2.0,Kolkata Knight Riders,Wickets,8.0,Gautam Gambhir
+9,16-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,143.0,8.0,147.0,7.0,Gujarat Lions,Wickets,3.0,Aaron Finch
+10,17-04-2016,"Punjab Cricket Association Stadium, Mohali",Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,Bat,Group,152.0,7.0,153.0,4.0,Kings XI Punjab,Wickets,6.0,Manan Vohra
+11,17-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,191.0,5.0,192.0,3.0,Delhi Daredevils,Wickets,7.0,Quinton de Kock
+12,18-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,142.0,6.0,145.0,3.0,Sunrisers Hyderabad,Wickets,7.0,David Warner
+13,19-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,138.0,8.0,141.0,4.0,Kolkata Knight Riders,Wickets,6.0,Robin Uthappa
+14,20-04-2016,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,170.0,7.0,171.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+15,21-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,135.0,8.0,137.0,0.0,Sunrisers Hyderabad,Wickets,10.0,Bhuvneshwar Kumar
+16,22-04-2016,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,185.0,3.0,172.0,8.0,Royal Challengers Bangalore,Runs,13.0,AB de Villiers
+17,23-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,164.0,4.0,154.0,7.0,Delhi Daredevils,Runs,10.0,Sanju Samson
+18,23-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,143.0,6.0,146.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Mustafizur Rahman
+19,24-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Bat,Group,180.0,2.0,182.0,4.0,Gujarat Lions,Wickets,6.0,Virat Kohli
+20,24-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160.0,5.0,162.0,8.0,Kolkata Knight Riders,Wickets,2.0,Suryakumar Yadav
+21,25-04-2016,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,189.0,6.0,164.0,7.0,Mumbai Indians,Runs,25.0,Parthiv Patel
+22,26-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,118.0,8.0,94.0,3.0,Rising Pune Supergiants,Runs,34.0,Ashok Dinda
+23,27-04-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,172.0,6.0,171.0,5.0,Gujarat Lions,Runs,1.0,Chris Morris
+24,28-04-2016,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,174.0,5.0,178.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+25,29-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Field,Group,195.0,3.0,196.0,7.0,Gujarat Lions,Wickets,3.0,Dwayne Smith
+26,30-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,186.0,8.0,159.0,10.0,Delhi Daredevils,Runs,27.0,Carlos Brathwaite
+27,30-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,194.0,5.0,179.0,6.0,Sunrisers Hyderabad,Runs,15.0,David Warner
+28,01-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,154.0,10.0,131.0,9.0,Kings XI Punjab,Runs,23.0,Axar Patel
+29,01-05-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Group,159.0,5.0,161.0,2.0,Mumbai Indians,Wickets,8.0,Rohit Sharma
+30,02-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,185.0,7.0,189.0,5.0,Kolkata Knight Riders,Wickets,5.0,Andre Russell
+31,03-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,149.0,7.0,150.0,2.0,Delhi Daredevils,Wickets,8.0,Rishabh Pant
+32,04-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,164.0,3.0,157.0,9.0,Kolkata Knight Riders,Runs,7.0,Andre Russell
+33,05-05-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,162.0,7.0,166.0,3.0,Rising Pune Supergiants,Wickets,7.0,Ajinkya Rahane
+34,06-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,126.0,6.0,129.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Bhuvneshwar Kumar
+35,07-05-2016,"M. Chinnaswamy Stadium, Bangalore",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191.0,6.0,195.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Virat Kohli
+36,07-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,181.0,5.0,172.0,5.0,Kings XI Punjab,Runs,9.0,Marcus Stoinis
+37,08-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,177.0,3.0,92.0,10.0,Sunrisers Hyderabad,Runs,85.0,Ashish Nehra
+38,08-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,158.0,4.0,164.0,5.0,Gujarat Lions,Wickets,5.0,Praveen Kumar
+39,09-05-2016,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,175.0,6.0,174.0,4.0,Royal Challengers Bangalore,Runs,1.0,Shane Watson
+40,10-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,Bat,Group,137.0,8.0,133.0,8.0,Sunrisers Hyderabad,Runs,4.0,Adam Zampa
+41,11-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,151.0,4.0,153.0,4.0,Mumbai Indians,Wickets,6.0,Krunal Pandya
+42,12-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,146.0,8.0,150.0,3.0,Delhi Daredevils,Wickets,7.0,Chris Morris
+43,13-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,124.0,9.0,127.0,3.0,Kings XI Punjab,Wickets,7.0,Marcus Stoinis
+44,14-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,248.0,3.0,104.0,10.0,Royal Challengers Bangalore,Runs,144.0,AB de Villiers
+45,14-05-2016,"Eden Gardens, Kolkata",Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,Bat,Group,103.0,6.0,66.0,2.0,Kolkata Knight Riders,Wickets,8.0,Yusuf Pathan
+46,15-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,179.0,4.0,180.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Hashim Amla
+47,15-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,206.0,4.0,126.0,10.0,Mumbai Indians,Runs,80.0,Krunal Pandya
+48,16-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,183.0,5.0,186.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Virat Kohli
+49,17-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,121.0,6.0,76.0,1.0,Rising Pune Supergiants,Runs,19.0,Ashok Dinda
+50,18-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,211.0,3.0,120.0,9.0,Royal Challengers Bangalore,Runs,82.0,Virat Kohli
+51,19-05-2016,"Green Park Stadium, Kanpur",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,124.0,8.0,125.0,4.0,Gujarat Lions,Wickets,6.0,Dwayne Smith
+52,20-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,158.0,7.0,161.0,4.0,Delhi Daredevils,Wickets,6.0,Karun Nair
+53,21-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,Bat,Group,172.0,7.0,173.0,6.0,Rising Pune Supergiants,Wickets,4.0,Mahendra Singh Dhoni
+54,21-05-2016,"Green Park Stadium, Kanpur",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,172.0,8.0,173.0,4.0,Gujarat Lions,Wickets,6.0,Suresh Raina
+55,22-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,171.0,6.0,149.0,8.0,Kolkata Knight Riders,Runs,22.0,Yusuf Pathan
+56,22-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,138.0,8.0,139.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Virat Kohli
+57,24-05-2016,"M. Chinnaswamy Stadium, Bangalore",Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,158.0,10.0,159.0,6.0,Royal Challengers Bangalore,Wickets,4.0,AB de Villiers
+58,25-05-2016,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,162.0,8.0,140.0,8.0,Sunrisers Hyderabad,Runs,22.0,Moises Henriques
+59,27-05-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Playoff,162.0,7.0,163.0,6.0,Sunrisers Hyderabad,Wickets,4.0,David Warner
+60,29-05-2016,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Final,208.0,7.0,200.0,7.0,Sunrisers Hyderabad,Runs,8.0,Ben Cutting
+1,09-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Bat,Group,121.0,8.0,126.0,1.0,Rising Pune Supergiants,Wickets,9.0,Ajinkya Rahane
+2,10-04-2016,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,98.0,10.0,99.0,1.0,Kolkata Knight Riders,Wickets,9.0,Andre Russell
+3,11-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,161.0,6.0,162.0,5.0,Gujarat Lions,Wickets,5.0,Aaron Finch
+4,12-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,227.0,4.0,182.0,6.0,Royal Challengers Bangalore,Runs,45.0,AB de Villiers
+5,13-04-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,187.0,5.0,188.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+6,14-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Rising Pune Supergiants,Gujarat Lions,Rising Pune Supergiants,Bat,Group,163.0,5.0,164.0,3.0,Gujarat Lions,Wickets,7.0,Aaron Finch
+7,15-04-2016,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,111.0,9.0,113.0,2.0,Delhi Daredevils,Wickets,8.0,Amit Mishra
+8,16-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,142.0,7.0,146.0,2.0,Kolkata Knight Riders,Wickets,8.0,Gautam Gambhir
+9,16-04-2016,"Wankhede Stadium, Mumbai",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,143.0,8.0,147.0,7.0,Gujarat Lions,Wickets,3.0,Aaron Finch
+10,17-04-2016,"Punjab Cricket Association Stadium, Mohali",Rising Pune Supergiants,Kings XI Punjab,Rising Pune Supergiants,Bat,Group,152.0,7.0,153.0,4.0,Kings XI Punjab,Wickets,6.0,Manan Vohra
+11,17-04-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Delhi Daredevils,Field,Group,191.0,5.0,192.0,3.0,Delhi Daredevils,Wickets,7.0,Quinton de Kock
+12,18-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,142.0,6.0,145.0,3.0,Sunrisers Hyderabad,Wickets,7.0,David Warner
+13,19-04-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,138.0,8.0,141.0,4.0,Kolkata Knight Riders,Wickets,6.0,Robin Uthappa
+14,20-04-2016,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,170.0,7.0,171.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+15,21-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,135.0,8.0,137.0,0.0,Sunrisers Hyderabad,Wickets,10.0,Bhuvneshwar Kumar
+16,22-04-2016,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,185.0,3.0,172.0,8.0,Royal Challengers Bangalore,Runs,13.0,AB de Villiers
+17,23-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Mumbai Indians,Field,Group,164.0,4.0,154.0,7.0,Delhi Daredevils,Runs,10.0,Sanju Samson
+18,23-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,143.0,6.0,146.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Mustafizur Rahman
+19,24-04-2016,"Saurashtra Cricket Association Stadium, Rajkot",Royal Challengers Bangalore,Gujarat Lions,Royal Challengers Bangalore,Bat,Group,180.0,2.0,182.0,4.0,Gujarat Lions,Wickets,6.0,Virat Kohli
+20,24-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160.0,5.0,162.0,8.0,Kolkata Knight Riders,Wickets,2.0,Suryakumar Yadav
+21,25-04-2016,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,189.0,6.0,164.0,7.0,Mumbai Indians,Runs,25.0,Parthiv Patel
+22,26-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,118.0,8.0,94.0,3.0,Rising Pune Supergiants,Runs,34.0,Ashok Dinda
+23,27-04-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,172.0,6.0,171.0,5.0,Gujarat Lions,Runs,1.0,Chris Morris
+24,28-04-2016,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,174.0,5.0,178.0,4.0,Mumbai Indians,Wickets,6.0,Rohit Sharma
+25,29-04-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Field,Group,195.0,3.0,196.0,7.0,Gujarat Lions,Wickets,3.0,Dwayne Smith
+26,30-04-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,186.0,8.0,159.0,10.0,Delhi Daredevils,Runs,27.0,Carlos Brathwaite
+27,30-04-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,194.0,5.0,179.0,6.0,Sunrisers Hyderabad,Runs,15.0,David Warner
+28,01-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,154.0,10.0,131.0,9.0,Kings XI Punjab,Runs,23.0,Axar Patel
+29,01-05-2016,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Group,159.0,5.0,161.0,2.0,Mumbai Indians,Wickets,8.0,Rohit Sharma
+30,02-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,185.0,7.0,189.0,5.0,Kolkata Knight Riders,Wickets,5.0,Andre Russell
+31,03-05-2016,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,149.0,7.0,150.0,2.0,Delhi Daredevils,Wickets,8.0,Rishabh Pant
+32,04-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,164.0,3.0,157.0,9.0,Kolkata Knight Riders,Runs,7.0,Andre Russell
+33,05-05-2016,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,162.0,7.0,166.0,3.0,Rising Pune Supergiants,Wickets,7.0,Ajinkya Rahane
+34,06-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,126.0,6.0,129.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Bhuvneshwar Kumar
+35,07-05-2016,"M. Chinnaswamy Stadium, Bangalore",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,191.0,6.0,195.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Virat Kohli
+36,07-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,181.0,5.0,172.0,5.0,Kings XI Punjab,Runs,9.0,Marcus Stoinis
+37,08-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,177.0,3.0,92.0,10.0,Sunrisers Hyderabad,Runs,85.0,Ashish Nehra
+38,08-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,158.0,4.0,164.0,5.0,Gujarat Lions,Wickets,5.0,Praveen Kumar
+39,09-05-2016,"Punjab Cricket Association Stadium, Mohali",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,175.0,6.0,174.0,4.0,Royal Challengers Bangalore,Runs,1.0,Shane Watson
+40,10-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Rising Pune Supergiants,Sunrisers Hyderabad,Bat,Group,137.0,8.0,133.0,8.0,Sunrisers Hyderabad,Runs,4.0,Adam Zampa
+41,11-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,151.0,4.0,153.0,4.0,Mumbai Indians,Wickets,6.0,Krunal Pandya
+42,12-05-2016,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,146.0,8.0,150.0,3.0,Delhi Daredevils,Wickets,7.0,Chris Morris
+43,13-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,124.0,9.0,127.0,3.0,Kings XI Punjab,Wickets,7.0,Marcus Stoinis
+44,14-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,248.0,3.0,104.0,10.0,Royal Challengers Bangalore,Runs,144.0,AB de Villiers
+45,14-05-2016,"Eden Gardens, Kolkata",Rising Pune Supergiants,Kolkata Knight Riders,Rising Pune Supergiants,Bat,Group,103.0,6.0,66.0,2.0,Kolkata Knight Riders,Wickets,8.0,Yusuf Pathan
+46,15-05-2016,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,179.0,4.0,180.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Hashim Amla
+47,15-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,206.0,4.0,126.0,10.0,Mumbai Indians,Runs,80.0,Krunal Pandya
+48,16-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,183.0,5.0,186.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Virat Kohli
+49,17-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,121.0,6.0,76.0,1.0,Rising Pune Supergiants,Runs,19.0,Ashok Dinda
+50,18-05-2016,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,211.0,3.0,120.0,9.0,Royal Challengers Bangalore,Runs,82.0,Virat Kohli
+51,19-05-2016,"Green Park Stadium, Kanpur",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,124.0,8.0,125.0,4.0,Gujarat Lions,Wickets,6.0,Dwayne Smith
+52,20-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,158.0,7.0,161.0,4.0,Delhi Daredevils,Wickets,6.0,Karun Nair
+53,21-05-2016,"ACA-VDCA Stadium, Visakhapatnam",Kings XI Punjab,Rising Pune Supergiants,Kings XI Punjab,Bat,Group,172.0,7.0,173.0,6.0,Rising Pune Supergiants,Wickets,4.0,Mahendra Singh Dhoni
+54,21-05-2016,"Green Park Stadium, Kanpur",Mumbai Indians,Gujarat Lions,Gujarat Lions,Field,Group,172.0,8.0,173.0,4.0,Gujarat Lions,Wickets,6.0,Suresh Raina
+55,22-05-2016,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,171.0,6.0,149.0,8.0,Kolkata Knight Riders,Runs,22.0,Yusuf Pathan
+56,22-05-2016,"Shaheed Veer Narayan Singh International Stadium, Raipur",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,138.0,8.0,139.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Virat Kohli
+57,24-05-2016,"M. Chinnaswamy Stadium, Bangalore",Gujarat Lions,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,158.0,10.0,159.0,6.0,Royal Challengers Bangalore,Wickets,4.0,AB de Villiers
+58,25-05-2016,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,162.0,8.0,140.0,8.0,Sunrisers Hyderabad,Runs,22.0,Moises Henriques
+59,27-05-2016,"Feroz Shah Kotla, Delhi",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Playoff,162.0,7.0,163.0,6.0,Sunrisers Hyderabad,Wickets,4.0,David Warner
+60,29-05-2016,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Bat,Final,208.0,7.0,200.0,7.0,Sunrisers Hyderabad,Runs,8.0,Ben Cutting
+1,05-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,207.0,4.0,172.0,10.0,Sunrisers Hyderabad,Runs,35.0,Yuvraj Singh
+2,06-04-2017,"Maharashtra Cricket Association Stadium, Pune",Mumbai Indians,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,184.0,8.0,187.0,3.0,Rising Pune Supergiants,Wickets,7.0,Steve Smith
+3,07-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,183.0,4.0,184.0,0.0,Kolkata Knight Riders,Wickets,10.0,Chris Lynn
+4,08-04-2017,"Holkar Cricket Stadium, Indore",Rising Pune Supergiants,Kings XI Punjab,Kings XI Punjab,Field,Group,163.0,6.0,164.0,4.0,Kings XI Punjab,Wickets,6.0,Glenn Maxwell
+5,08-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,157.0,8.0,142.0,9.0,Royal Challengers Bangalore,Runs,15.0,Kedar Jadhav
+6,09-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,135.0,7.0,140.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Rashid Khan
+7,09-04-2017,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,178.0,7.0,180.0,6.0,Mumbai Indians,Wickets,4.0,Nitish Rana
+8,10-04-2017,"Holkar Cricket Stadium, Indore",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,148.0,4.0,150.0,2.0,Kings XI Punjab,Wickets,8.0,Axar Patel
+9,11-04-2017,"Maharashtra Cricket Association Stadium, Pune",Delhi Daredevils,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,205.0,4.0,108.0,10.0,Delhi Daredevils,Runs,97.0,Sanju Samson
+10,12-04-2017,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,158.0,8.0,159.0,6.0,Mumbai Indians,Wickets,4.0,Jasprit Bumrah
+11,13-04-2017,"Eden Gardens, Kolkata",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,170.0,9.0,171.0,2.0,Kolkata Knight Riders,Wickets,8.0,Sunil Narine
+12,14-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,142.0,5.0,145.0,6.0,Mumbai Indians,Wickets,4.0,Kieron Pollard
+13,14-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Rising Pune Supergiants,Gujarat Lions,Gujarat Lions,Field,Group,171.0,8.0,172.0,3.0,Gujarat Lions,Wickets,7.0,Andrew Tye
+14,15-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,172.0,6.0,155.0,6.0,Kolkata Knight Riders,Runs,17.0,Robin Uthappa
+15,15-04-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kings XI Punjab,Delhi Daredevils,Bat,Group,188.0,6.0,137.0,9.0,Delhi Daredevils,Runs,51.0,Corey Anderson
+16,16-04-2017,"Wankhede Stadium, Mumbai",Gujarat Lions,Mumbai Indians,Mumbai Indians,Field,Group,176.0,4.0,177.0,4.0,Mumbai Indians,Wickets,6.0,Nitish Rana
+17,16-04-2017,"M. Chinnaswamy Stadium, Bangalore",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,161.0,8.0,134.0,9.0,Rising Pune Supergiants,Runs,27.0,Ben Stokes
+18,17-04-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Delhi Daredevils,Bat,Group,168.0,7.0,169.0,6.0,Kolkata Knight Riders,Wickets,4.0,Manish Pandey
+19,17-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,159.0,6.0,154.0,10.0,Sunrisers Hyderabad,Runs,5.0,Bhuvneshwar Kumar
+20,18-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,213.0,2.0,192.0,7.0,Royal Challengers Bangalore,Runs,21.0,Chris Gayle
+21,19-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Delhi Daredevils,Sunrisers Hyderabad,Bat,Group,191.0,4.0,176.0,5.0,Sunrisers Hyderabad,Runs,15.0,Kane Williamson
+22,20-04-2017,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Mumbai Indians,Delhi Daredevils,Field,Group,198.0,4.0,199.0,2.0,Mumbai Indians,Wickets,8.0,Jos Buttler
+23,21-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Gujarat Lions,Gujarat Lions,Field,Group,187.0,5.0,188.0,6.0,Gujarat Lions,Wickets,4.0,Suresh Raina
+24,22-04-2017,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,176.0,3.0,179.0,4.0,Rising Pune Supergiants,Wickets,6.0,Mahendra Singh Dhoni
+25,22-04-2017,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,142.0,8.0,128.0,7.0,Mumbai Indians,Runs,14.0,Mitchell McClenaghan
+26,23-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,188.0,7.0,162.0,7.0,Kings XI Punjab,Runs,26.0,Hashim Amla
+27,23-04-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,131.0,10.0,49.0,10.0,Kolkata Knight Riders,Runs,82.0,Nathan Coulter-Nile
+28,24-04-2017,"Wankhede Stadium, Mumbai",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Group,160.0,6.0,157.0,8.0,Rising Pune Supergiants,Runs,3.0,Ben Stokes
+29,25-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,,,,,,,,,,,
+30,26-04-2017,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,182.0,5.0,184.0,3.0,Kolkata Knight Riders,Wickets,7.0,Robin Uthappa
+31,27-04-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Gujarat Lions,Gujarat Lions,Field,Group,134.0,10.0,135.0,3.0,Gujarat Lions,Wickets,7.0,Andrew Tye
+32,28-04-2017,"Eden Gardens, Kolkata",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160.0,6.0,161.0,3.0,Kolkata Knight Riders,Wickets,7.0,Gautam Gambhir
+33,28-04-2017,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,207.0,3.0,181.0,9.0,Sunrisers Hyderabad,Runs,26.0,Rashid Khan
+34,29-04-2017,"Maharashtra Cricket Association Stadium, Pune",Rising Pune Supergiants,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,157.0,3.0,96.0,9.0,Rising Pune Supergiants,Runs,61.0,Lockie Ferguson
+35,29-04-2017,"Saurashtra Cricket Association Stadium, Rajkot",Gujarat Lions,Mumbai Indians,Gujarat Lions,Bat,Group,153.0,9.0,153.0,10.0,Mumbai Indians,Super Over,,Krunal Pandya
+36,30-04-2017,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,67.0,10.0,68.0,0.0,Kings XI Punjab,Wickets,10.0,Sandeep Sharma
+37,30-04-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,209.0,3.0,161.0,7.0,Sunrisers Hyderabad,Runs,48.0,David Warner
+38,01-05-2017,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,Bat,Group,162.0,8.0,165.0,5.0,Mumbai Indians,Wickets,5.0,Rohit Sharma
+39,01-05-2017,"Maharashtra Cricket Association Stadium, Pune",Gujarat Lions,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,161.0,10.0,167.0,5.0,Rising Pune Supergiants,Wickets,5.0,Ben Stokes
+40,02-05-2017,"Feroz Shah Kotla, Delhi",Sunrisers Hyderabad,Delhi Daredevils,Delhi Daredevils,Field,Group,185.0,3.0,189.0,4.0,Delhi Daredevils,Wickets,6.0,Mohammed Shami
+41,03-05-2017,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,155.0,8.0,158.0,6.0,Rising Pune Supergiants,Wickets,4.0,Rahul Tripathi
+42,04-05-2017,"Feroz Shah Kotla, Delhi",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,208.0,7.0,214.0,3.0,Delhi Daredevils,Wickets,7.0,Rishabh Pant
+43,05-05-2017,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,138.0,7.0,119.0,10.0,Kings XI Punjab,Runs,19.0,Sandeep Sharma
+44,06-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rising Pune Supergiants,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,148.0,8.0,136.0,9.0,Rising Pune Supergiants,Runs,12.0,Jaydev Unadkat
+45,06-05-2017,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,212.0,3.0,66.0,10.0,Mumbai Indians,Runs,146.0,Lendl Simmons
+46,07-05-2017,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,158.0,6.0,159.0,4.0,Kolkata Knight Riders,Wickets,6.0,Sunil Narine
+47,07-05-2017,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Gujarat Lions,Gujarat Lions,Field,Group,189.0,3.0,192.0,4.0,Gujarat Lions,Wickets,6.0,Dwayne Smith
+48,08-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,138.0,7.0,140.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Shikhar Dhawan
+49,09-05-2017,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,167.0,6.0,153.0,6.0,Kings XI Punjab,Runs,14.0,Mohit Sharma
+50,10-05-2017,"Green Park Stadium, Kanpur",Gujarat Lions,Delhi Daredevils,Delhi Daredevils,Field,Group,195.0,5.0,197.0,8.0,Delhi Daredevils,Wickets,2.0,Shreyas Iyer
+51,11-05-2017,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,230.0,3.0,223.0,6.0,Kings XI Punjab,Runs,7.0,Wriddhiman Saha
+52,12-05-2017,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rising Pune Supergiants,Delhi Daredevils,Bat,Group,168.0,8.0,161.0,7.0,Delhi Daredevils,Runs,7.0,Karun Nair
+53,13-05-2017,"Green Park Stadium, Kanpur",Gujarat Lions,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,154.0,10.0,158.0,2.0,Sunrisers Hyderabad,Wickets,8.0,Mohammed Siraj
+54,13-05-2017,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,173.0,5.0,164.0,8.0,Mumbai Indians,Runs,9.0,Ambati Rayudu
+55,14-05-2017,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab,Rising Pune Supergiants,Rising Pune Supergiants,Field,Group,73.0,10.0,78.0,1.0,Rising Pune Supergiants,Wickets,9.0,Jaydev Unadkat
+56,14-05-2017,"Feroz Shah Kotla, Delhi",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,161.0,6.0,151.0,10.0,Royal Challengers Bangalore,Runs,10.0,Harshal Patel
+57,16-05-2017,"Wankhede Stadium, Mumbai",Rising Pune Supergiants,Mumbai Indians,Mumbai Indians,Field,Playoff,162.0,4.0,142.0,9.0,Rising Pune Supergiants,Runs,20.0,Washington Sundar
+58,17-05-2017,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,128.0,7.0,48.0,3.0,Kolkata Knight Riders,Wickets,7.0,Nathan Coulter-Nile
+59,19-05-2017,"M. Chinnaswamy Stadium, Bangalore",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Playoff,107.0,10.0,111.0,4.0,Mumbai Indians,Wickets,6.0,Karn Sharma
+60,21-05-2017,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Rising Pune Supergiants,Mumbai Indians,Bat,Final,129.0,8.0,128.0,6.0,Mumbai Indians,Runs,1.0,Krunal Pandya
+1,07-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,165.0,4.0,169.0,9.0,Chennai Super Kings,Wickets,1.0,Dwayne Bravo
+2,08-04-2018,"Punjab Cricket Association Stadium, Mohali",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,166.0,7.0,167.0,4.0,Kings XI Punjab,Wickets,6.0,K. L. Rahul
+3,08-04-2018,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176.0,7.0,177.0,6.0,Kolkata Knight Riders,Wickets,4.0,Sunil Narine
+4,09-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,125.0,9.0,127.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Shikhar Dhawan
+5,10-04-2018,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,202.0,6.0,205.0,5.0,Chennai Super Kings,Wickets,5.0,Sam Billings
+6,11-04-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Daredevils,Delhi Daredevils,Field,Group,153.0,5.0,60.0,4.0,Rajasthan Royals,Runs,10.0,Sanju Samson
+7,12-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,147.0,8.0,151.0,9.0,Sunrisers Hyderabad,Wickets,1.0,Rashid Khan
+8,13-04-2018,"M. Chinnaswamy Stadium, Bangalore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,155.0,10.0,159.0,6.0,Royal Challengers Bangalore,Wickets,4.0,Umesh Yadav
+9,14-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,194.0,7.0,195.0,3.0,Delhi Daredevils,Wickets,7.0,Jason Roy
+10,14-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,138.0,8.0,139.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Billy Stanlake
+11,15-04-2018,"M. Chinnaswamy Stadium, Bangalore",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,217.0,4.0,198.0,6.0,Rajasthan Royals,Runs,19.0,Sanju Samson
+12,15-04-2018,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,197.0,7.0,193.0,5.0,Kings XI Punjab,Runs,4.0,Chris Gayle
+13,16-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,200.0,9.0,129.0,10.0,Kolkata Knight Riders,Runs,71.0,Nitish Rana
+14,17-04-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,213.0,6.0,167.0,8.0,Mumbai Indians,Runs,46.0,Rohit Sharma
+15,18-04-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,160.0,8.0,163.0,3.0,Kolkata Knight Riders,Wickets,7.0,Nitish Rana
+16,19-04-2018,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Sunrisers Hyderabad,Kings XI Punjab,Bat,Group,193.0,3.0,178.0,4.0,Kings XI Punjab,Runs,15.0,Chris Gayle
+17,20-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,204.0,5.0,140.0,10.0,Chennai Super Kings,Runs,64.0,Shane Watson
+18,21-04-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,191.0,7.0,126.0,1.0,Kings XI Punjab,Wickets,9.0,K. L. Rahul
+19,21-04-2018,"M. Chinnaswamy Stadium, Bangalore",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,174.0,5.0,176.0,4.0,Royal Challengers Bangalore,Wickets,6.0,AB de Villiers
+20,22-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,182.0,3.0,178.0,6.0,Chennai Super Kings,Runs,4.0,Ambati Rayudu
+21,22-04-2018,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,167.0,7.0,168.0,7.0,Rajasthan Royals,Wickets,3.0,Jofra Archer
+22,23-04-2018,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,143.0,8.0,139.0,8.0,Kings XI Punjab,Runs,4.0,Ankit Rajpoot
+23,24-04-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,118.0,10.0,87.0,10.0,Sunrisers Hyderabad,Runs,31.0,Rashid Khan
+24,25-04-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,205.0,8.0,207.0,5.0,Chennai Super Kings,Wickets,5.0,Mahendra Singh Dhoni
+25,26-04-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,132.0,6.0,119.0,10.0,Sunrisers Hyderabad,Runs,13.0,Ankit Rajpoot
+26,27-04-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,219.0,4.0,164.0,9.0,Delhi Daredevils,Runs,55.0,Shreyas Iyer
+27,28-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,169.0,5.0,170.0,2.0,Mumbai Indians,Wickets,8.0,Rohit Sharma
+28,29-04-2018,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,151.0,7.0,140.0,6.0,Sunrisers Hyderabad,Runs,11.0,Kane Williamson
+29,29-04-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,175.0,4.0,176.0,4.0,Kolkata Knight Riders,Wickets,6.0,Chris Lynn
+30,30-04-2018,"Maharashtra Cricket Association Stadium, Pune",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,211.0,4.0,198.0,5.0,Chennai Super Kings,Runs,13.0,Shane Watson
+31,01-05-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,167.0,7.0,153.0,7.0,Royal Challengers Bangalore,Runs,14.0,Tim Southee
+32,02-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Rajasthan Royals,Rajasthan Royals,Field,Group,196.0,6.0,146.0,5.0,Delhi Daredevils,Runs,4.0,Rishabh Pant
+33,03-05-2018,"Eden Gardens, Kolkata",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,177.0,5.0,180.0,4.0,Kolkata Knight Riders,Wickets,6.0,Sunil Narine
+34,04-05-2018,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,174.0,6.0,176.0,4.0,Mumbai Indians,Wickets,6.0,Suryakumar Yadav
+35,05-05-2018,"Maharashtra Cricket Association Stadium, Pune",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,127.0,9.0,128.0,4.0,Chennai Super Kings,Wickets,6.0,Ravindra Jadeja
+36,05-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,163.0,5.0,164.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Rashid Khan
+37,06-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,181.0,4.0,168.0,6.0,Mumbai Indians,Runs,13.0,Hardik Pandya
+38,06-05-2018,"Holkar Cricket Stadium, Indore",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,152.0,9.0,155.0,4.0,Kings XI Punjab,Wickets,6.0,Mujeeb Ur Rahman
+39,07-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,146.0,10.0,141.0,6.0,Sunrisers Hyderabad,Runs,5.0,Kane Williamson
+40,08-05-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,Bat,Group,158.0,8.0,143.0,7.0,Rajasthan Royals,Runs,15.0,Jos Buttler
+41,09-05-2018,"Eden Gardens, Kolkata",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,210.0,6.0,108.0,10.0,Mumbai Indians,Runs,102.0,Ishan Kishan
+42,10-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Sunrisers Hyderabad,Delhi Daredevils,Bat,Group,187.0,5.0,191.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Shikhar Dhawan
+43,11-05-2018,"Sawai Mansingh Stadium, Jaipur",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,176.0,4.0,177.0,6.0,Rajasthan Royals,Wickets,4.0,Jos Buttler
+44,12-05-2018,"Holkar Cricket Stadium, Indore",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,245.0,6.0,214.0,8.0,Kolkata Knight Riders,Runs,31.0,Sunil Narine
+45,12-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,181.0,4.0,187.0,5.0,Royal Challengers Bangalore,Wickets,5.0,AB de Villiers
+46,13-05-2018,"Maharashtra Cricket Association Stadium, Pune",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,179.0,4.0,180.0,2.0,Chennai Super Kings,Wickets,8.0,Ambati Rayudu
+47,13-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,168.0,6.0,171.0,3.0,Rajasthan Royals,Wickets,7.0,Jos Buttler
+48,14-05-2018,"Holkar Cricket Stadium, Indore",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,88.0,10.0,92.0,0.0,Royal Challengers Bangalore,Wickets,10.0,Umesh Yadav
+49,15-05-2018,"Eden Gardens, Kolkata",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,142.0,10.0,145.0,4.0,Kolkata Knight Riders,Wickets,6.0,Kuldeep Yadav
+50,16-05-2018,"Wankhede Stadium, Mumbai",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,186.0,8.0,183.0,5.0,Mumbai Indians,Runs,3.0,Jasprit Bumrah
+51,17-05-2018,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,218.0,6.0,204.0,3.0,Royal Challengers Bangalore,Runs,14.0,AB de Villiers
+52,18-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Chennai Super Kings,Chennai Super Kings,Field,Group,162.0,5.0,128.0,6.0,Delhi Daredevils,Runs,34.0,Harshal Patel
+53,19-05-2018,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,164.0,5.0,134.0,10.0,Rajasthan Royals,Runs,30.0,Shreyas Gopal
+54,19-05-2018,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,172.0,9.0,173.0,5.0,Kolkata Knight Riders,Wickets,5.0,Chris Lynn
+55,20-05-2018,"Feroz Shah Kotla, Delhi",Delhi Daredevils,Mumbai Indians,Delhi Daredevils,Bat,Group,174.0,4.0,163.0,10.0,Delhi Daredevils,Runs,11.0,Amit Mishra
+56,20-05-2018,"Maharashtra Cricket Association Stadium, Pune",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,153.0,10.0,159.0,5.0,Chennai Super Kings,Wickets,5.0,Lungi Ngidi
+57,22-05-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Playoff,139.0,7.0,140.0,8.0,Chennai Super Kings,Wickets,2.0,Faf du Plessis
+58,23-05-2018,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Playoff,169.0,7.0,144.0,4.0,Kolkata Knight Riders,Runs,25.0,Andre Russell
+59,25-05-2018,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,174.0,7.0,160.0,9.0,Sunrisers Hyderabad,Runs,14.0,Rashid Khan
+60,27-05-2018,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Final,178.0,6.0,181.0,2.0,Chennai Super Kings,Wickets,8.0,Shane Watson
+1,23-03-2019,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,70.0,10.0,71.0,3.0,Chennai Super Kings,Wickets,7.0,Harbhajan Singh
+2,24-03-2019,"Eden Gardens, Kolkata",Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,181.0,3.0,183.0,4.0,Kolkata Knight Riders,Wickets,6.0,Andre Russell
+3,24-03-2019,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,Group,213.0,6.0,176.0,10.0,Delhi Capitals,Runs,37.0,Rishabh Pant
+4,25-03-2019,"Sawai Mansingh Stadium, Jaipur",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,184.0,4.0,170.0,9.0,Kings XI Punjab,Runs,14.0,Chris Gayle
+5,26-03-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Chennai Super Kings,Delhi Capitals,Bat,Group,147.0,6.0,150.0,4.0,Chennai Super Kings,Wickets,6.0,Shane Watson
+6,27-03-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,218.0,4.0,190.0,4.0,Kolkata Knight Riders,Runs,28.0,Andre Russell
+7,28-03-2019,"M. Chinnaswamy Stadium, Bangalore",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,187.0,8.0,181.0,5.0,Mumbai Indians,Runs,6.0,Jasprit Bumrah
+8,29-03-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat,Group,198.0,2.0,201.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Rashid Khan
+9,30-03-2019,"Punjab Cricket Association Stadium, Mohali",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,176.0,7.0,177.0,2.0,Kings XI Punjab,Wickets,8.0,Mayank Agarwal
+10,30-03-2019,"Feroz Shah Kotla, Delhi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,185.0,8.0,185.0,6.0,Delhi Capitals,Super Over,,Prithvi Shaw
+11,31-03-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,231.0,2.0,113.0,10.0,Sunrisers Hyderabad,Runs,118.0,Jonny Bairstow
+12,31-03-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,175.0,5.0,167.0,8.0,Chennai Super Kings,Runs,8.0,Mahendra Singh Dhoni
+13,01-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Delhi Capitals,Delhi Capitals,Field,Group,166.0,9.0,152.0,10.0,Kings XI Punjab,Runs,14.0,Sam Curran
+14,02-04-2019,"Sawai Mansingh Stadium, Jaipur",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,158.0,4.0,164.0,3.0,Rajasthan Royals,Wickets,7.0,Shreyas Gopal
+15,03-04-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,170.0,5.0,133.0,8.0,Mumbai Indians,Runs,37.0,Hardik Pandya
+16,04-04-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,129.0,8.0,131.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Jonny Bairstow
+17,05-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,205.0,3.0,206.0,5.0,Kolkata Knight Riders,Wickets,5.0,Andre Russell
+18,06-04-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,160.0,3.0,138.0,5.0,Chennai Super Kings,Runs,22.0,Harbhajan Singh
+19,06-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,136.0,7.0,96.0,10.0,Mumbai Indians,Runs,40.0,Alzarri Joseph
+20,07-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,149.0,8.0,152.0,6.0,Delhi Capitals,Wickets,4.0,Kagiso Rabada
+21,07-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,139.0,3.0,140.0,2.0,Kolkata Knight Riders,Wickets,8.0,Harry Gurney
+22,08-04-2019,"Punjab Cricket Association Stadium, Mohali",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,150.0,4.0,151.0,4.0,Kings XI Punjab,Wickets,6.0,K. L. Rahul
+23,09-04-2019,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,108.0,9.0,111.0,3.0,Chennai Super Kings,Wickets,7.0,Deepak Chahar
+24,10-04-2019,"Wankhede Stadium, Mumbai",Kings XI Punjab,Mumbai Indians,Mumbai Indians,Field,Group,197.0,4.0,198.0,7.0,Mumbai Indians,Wickets,3.0,Kieron Pollard
+25,11-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,Group,151.0,7.0,155.0,6.0,Chennai Super Kings,Wickets,4.0,Mahendra Singh Dhoni
+26,12-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,178.0,7.0,180.0,3.0,Delhi Capitals,Wickets,7.0,Shikhar Dhawan
+27,13-04-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,187.0,5.0,188.0,6.0,Rajasthan Royals,Wickets,4.0,Jos Buttler
+28,13-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,173.0,4.0,174.0,2.0,Royal Challengers Bangalore,Wickets,8.0,AB de Villiers
+29,14-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,161.0,8.0,162.0,5.0,Chennai Super Kings,Wickets,5.0,Imran Tahir
+30,14-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,155.0,7.0,116.0,10.0,Delhi Capitals,Runs,39.0,Keemo Paul
+31,15-04-2019,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,171.0,7.0,172.0,5.0,Mumbai Indians,Wickets,5.0,Lasith Malinga
+32,16-04-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,182.0,6.0,170.0,7.0,Kings XI Punjab,Runs,12.0,Ravichandran Ashwin
+33,17-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Bat,Group,132.0,5.0,137.0,4.0,Sunrisers Hyderabad,Wickets,6.0,David Warner
+34,18-04-2019,"Feroz Shah Kotla, Delhi",Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat,Group,168.0,5.0,128.0,9.0,Mumbai Indians,Runs,40.0,Hardik Pandya
+35,19-04-2019,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,213.0,4.0,203.0,5.0,Royal Challengers Bangalore,Runs,10.0,Virat Kohli
+36,20-04-2019,"Sawai Mansingh Stadium, Jaipur",Mumbai Indians,Rajasthan Royals,Rajasthan Royals,Field,Group,161.0,5.0,162.0,5.0,Rajasthan Royals,Wickets,5.0,Steve Smith
+37,20-04-2019,"Feroz Shah Kotla, Delhi",Kings XI Punjab,Delhi Capitals,Delhi Capitals,Field,Group,163.0,7.0,166.0,5.0,Delhi Capitals,Wickets,5.0,Shreyas Iyer
+38,21-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,159.0,8.0,161.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Khaleel Ahmed
+39,21-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,161.0,7.0,160.0,8.0,Royal Challengers Bangalore,Runs,1.0,Parthiv Patel
+40,22-04-2019,"Sawai Mansingh Stadium, Jaipur",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,191.0,6.0,193.0,4.0,Delhi Capitals,Wickets,6.0,Rishabh Pant
+41,23-04-2019,"M. A. Chidambaram Stadium, Chennai",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,175.0,3.0,176.0,4.0,Chennai Super Kings,Wickets,6.0,Shane Watson
+42,24-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Kings XI Punjab,Kings XI Punjab,Field,Group,202.0,4.0,185.0,7.0,Royal Challengers Bangalore,Runs,17.0,AB de Villiers
+43,25-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,175.0,6.0,177.0,7.0,Rajasthan Royals,Wickets,3.0,Varun Aaron
+44,26-04-2019,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,155.0,4.0,109.0,10.0,Mumbai Indians,Runs,46.0,Rohit Sharma
+45,27-04-2019,"Sawai Mansingh Stadium, Jaipur",Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,Field,Group,160.0,8.0,161.0,3.0,Rajasthan Royals,Wickets,7.0,Jaydev Unadkat
+46,28-04-2019,"Feroz Shah Kotla, Delhi",Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,Bat,Group,187.0,5.0,171.0,7.0,Delhi Capitals,Runs,16.0,Shikhar Dhawan
+47,28-04-2019,"Eden Gardens, Kolkata",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,232.0,2.0,198.0,7.0,Kolkata Knight Riders,Runs,34.0,Andre Russell
+48,29-04-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Sunrisers Hyderabad,Kings XI Punjab,Kings XI Punjab,Field,Group,212.0,6.0,167.0,8.0,Sunrisers Hyderabad,Runs,45.0,David Warner
+49,30-04-2019,"M. Chinnaswamy Stadium, Bangalore",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,62.0,7.0,41.0,1.0,,,,
+50,01-05-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,179.0,4.0,99.0,10.0,Chennai Super Kings,Runs,80.0,Mahendra Singh Dhoni
+51,02-05-2019,"Wankhede Stadium, Mumbai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,162.0,5.0,162.0,6.0,Mumbai Indians,Super Over,,Jasprit Bumrah
+52,03-05-2019,"Punjab Cricket Association Stadium, Mohali",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,183.0,6.0,185.0,3.0,Kolkata Knight Riders,Wickets,7.0,Shubman Gill
+53,04-05-2019,"Feroz Shah Kotla, Delhi",Rajasthan Royals,Delhi Capitals,Rajasthan Royals,Bat,Group,115.0,9.0,121.0,5.0,Delhi Capitals,Wickets,5.0,Amit Mishra
+54,04-05-2019,"M. Chinnaswamy Stadium, Bangalore",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,175.0,7.0,178.0,6.0,Royal Challengers Bangalore,Wickets,4.0,Shimron Hetmyer
+55,05-05-2019,"Punjab Cricket Association Stadium, Mohali",Chennai Super Kings,Kings XI Punjab,Kings XI Punjab,Field,Group,170.0,5.0,173.0,4.0,Kings XI Punjab,Wickets,6.0,K. L. Rahul
+56,05-05-2019,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,133.0,7.0,134.0,1.0,Mumbai Indians,Wickets,9.0,Hardik Pandya
+57,07-05-2019,"M. A. Chidambaram Stadium, Chennai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Playoff,131.0,4.0,132.0,4.0,Mumbai Indians,Wickets,6.0,Suryakumar Yadav
+58,08-05-2019,"ACA-VDCA Stadium, Visakhapatnam",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Field,Playoff,162.0,8.0,165.0,8.0,Delhi Capitals,Wickets,2.0,Rishabh Pant
+59,10-05-2019,"ACA-VDCA Stadium, Visakhapatnam",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,Playoff,147.0,9.0,151.0,4.0,Chennai Super Kings,Wickets,6.0,Faf du Plessis
+60,12-05-2019,"Rajiv Gandhi International Cricket Stadium, Hyderabad",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Final,149.0,8.0,148.0,7.0,Mumbai Indians,Runs,1.0,Jasprit Bumrah
+1,19-09-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,162.0,9.0,166.0,5.0,Chennai Super Kings,Wickets,5.0,Ambati Rayudu
+2,20-09-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Kings XI Punjab,Kings XI Punjab,Field,Group,157.0,8.0,157.0,8.0,Delhi Capitals,Super Over,,Marcus Stoinis
+3,21-09-2020,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,163.0,5.0,153.0,10.0,Royal Challengers Bangalore,Runs,10.0,Yuzvendra Chahal
+4,22-09-2020,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,Field,Group,216.0,7.0,200.0,6.0,Rajasthan Royals,Runs,16.0,Sanju Samson
+5,23-09-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,195.0,5.0,146.0,9.0,Mumbai Indians,Runs,49.0,Rohit Sharma
+6,24-09-2020,"Dubai International Cricket Stadium, Dubai",Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,206.0,3.0,109.0,10.0,Kings XI Punjab,Runs,97.0,K. L. Rahul
+7,25-09-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,Group,175.0,3.0,131.0,7.0,Delhi Capitals,Runs,44.0,Prithvi Shaw
+8,26-09-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,142.0,4.0,145.0,3.0,Kolkata Knight Riders,Wickets,7.0,Shubman Gill
+9,27-09-2020,"Sharjah Cricket Stadium, Sharjah",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,223.0,2.0,226.0,6.0,Rajasthan Royals,Wickets,4.0,Sanju Samson
+10,28-09-2020,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,201.0,3.0,201.0,5.0,Royal Challengers Bangalore,Super Over,,AB de Villiers
+11,29-09-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Field,Group,162.0,4.0,147.0,7.0,Sunrisers Hyderabad,Runs,15.0,Rashid Khan
+12,30-09-2020,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,174.0,6.0,137.0,9.0,Kolkata Knight Riders,Runs,37.0,Shivam Mavi
+13,01-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Field,Group,191.0,4.0,143.0,8.0,Mumbai Indians,Runs,48.0,Kieron Pollard
+14,02-10-2020,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,164.0,5.0,157.0,5.0,Sunrisers Hyderabad,Runs,7.0,Priyam Garg
+15,03-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,154.0,6.0,158.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Yuzvendra Chahal
+16,03-10-2020,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,228.0,4.0,210.0,8.0,Delhi Capitals,Runs,18.0,Shreyas Iyer
+17,04-10-2020,"Sharjah Cricket Stadium, Sharjah",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,208.0,5.0,174.0,7.0,Mumbai Indians,Runs,34.0,Trent Boult
+18,04-10-2020,"Dubai International Cricket Stadium, Dubai",Kings XI Punjab,Chennai Super Kings,Kings XI Punjab,Bat,Group,178.0,4.0,181.0,0.0,Chennai Super Kings,Wickets,10.0,Shane Watson
+19,05-10-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,196.0,4.0,137.0,9.0,Delhi Capitals,Runs,59.0,Axar Patel
+20,06-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,193.0,4.0,136.0,10.0,Mumbai Indians,Runs,57.0,Suryakumar Yadav
+21,07-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,167.0,10.0,157.0,5.0,Kolkata Knight Riders,Runs,10.0,Rahul Tripathi
+22,08-10-2020,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Kings XI Punjab,Sunrisers Hyderabad,Bat,Group,201.0,6.0,132.0,10.0,Sunrisers Hyderabad,Runs,69.0,Jonny Bairstow
+23,09-10-2020,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,Group,184.0,8.0,138.0,10.0,Delhi Capitals,Runs,46.0,Ravichandran Ashwin
+24,10-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,164.0,6.0,162.0,5.0,Kolkata Knight Riders,Runs,2.0,Dinesh Karthik
+25,10-10-2020,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,169.0,4.0,132.0,8.0,Royal Challengers Bangalore,Runs,37.0,Virat Kohli
+26,11-10-2020,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,Bat,Group,158.0,4.0,163.0,5.0,Rajasthan Royals,Wickets,5.0,Rahul Tewatia
+27,11-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,Mumbai Indians,Delhi Capitals,Bat,Group,162.0,4.0,166.0,5.0,Mumbai Indians,Wickets,5.0,Quinton de Kock
+28,12-10-2020,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Group,194.0,2.0,112.0,9.0,Royal Challengers Bangalore,Runs,82.0,AB de Villiers
+29,13-10-2020,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,Bat,Group,167.0,6.0,147.0,8.0,Chennai Super Kings,Runs,20.0,Ravindra Jadeja
+30,14-10-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Rajasthan Royals,Delhi Capitals,Bat,Group,161.0,7.0,148.0,8.0,Delhi Capitals,Runs,13.0,Anrich Nortje
+31,15-10-2020,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,171.0,6.0,177.0,2.0,Kings XI Punjab,Wickets,8.0,K. L. Rahul
+32,16-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,Bat,Group,148.0,5.0,149.0,2.0,Mumbai Indians,Wickets,8.0,Quinton de Kock
+33,17-10-2020,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,Bat,Group,177.0,6.0,179.0,3.0,Royal Challengers Bangalore,Wickets,7.0,AB de Villiers
+34,17-10-2020,"Sharjah Cricket Stadium, Sharjah",Chennai Super Kings,Delhi Capitals,Chennai Super Kings,Bat,Group,179.0,4.0,185.0,5.0,Delhi Capitals,Wickets,5.0,Shikhar Dhawan
+35,18-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,163.0,5.0,163.0,6.0,Kolkata Knight Riders,Super Over,,Lockie Ferguson
+36,18-10-2020,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,Kings XI Punjab,Mumbai Indians,Bat,Group,176.0,6.0,176.0,6.0,Kings XI Punjab,Super Over,,K. L. Rahul
+37,19-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,125.0,5.0,126.0,3.0,Rajasthan Royals,Wickets,7.0,Jos Buttler
+38,20-10-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Kings XI Punjab,Delhi Capitals,Bat,Group,164.0,5.0,167.0,5.0,Kings XI Punjab,Wickets,5.0,Shikhar Dhawan
+39,21-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,84.0,8.0,85.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Mohammed Siraj
+40,22-10-2020,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,154.0,6.0,156.0,2.0,Sunrisers Hyderabad,Wickets,8.0,Manish Pandey
+41,23-10-2020,"Sharjah Cricket Stadium, Sharjah",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,114.0,9.0,116.0,0.0,Mumbai Indians,Wickets,10.0,Trent Boult
+42,24-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,194.0,6.0,135.0,9.0,Kolkata Knight Riders,Runs,59.0,Varun Chakravarthy
+43,24-10-2020,"Dubai International Cricket Stadium, Dubai",Kings XI Punjab,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,126.0,7.0,114.0,10.0,Kings XI Punjab,Runs,12.0,Chris Jordan
+44,25-10-2020,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,Bat,Group,145.0,6.0,150.0,2.0,Chennai Super Kings,Wickets,8.0,Ruturaj Gaikwad
+45,25-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Rajasthan Royals,Mumbai Indians,Bat,Group,195.0,5.0,196.0,2.0,Rajasthan Royals,Wickets,8.0,Ben Stokes
+46,26-10-2020,"Sharjah Cricket Stadium, Sharjah",Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,Field,Group,149.0,9.0,150.0,2.0,Kings XI Punjab,Wickets,8.0,Chris Gayle
+47,27-10-2020,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,Field,Group,219.0,2.0,131.0,10.0,Sunrisers Hyderabad,Runs,88.0,Wriddhiman Saha
+48,28-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,164.0,6.0,166.0,5.0,Mumbai Indians,Wickets,5.0,Suryakumar Yadav
+49,29-10-2020,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,Field,Group,172.0,5.0,178.0,4.0,Chennai Super Kings,Wickets,6.0,Ruturaj Gaikwad
+50,30-10-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,Field,Group,185.0,4.0,186.0,3.0,Rajasthan Royals,Wickets,7.0,Ben Stokes
+51,31-10-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,Group,110.0,9.0,111.0,1.0,Mumbai Indians,Wickets,9.0,Ishan Kishan
+52,31-10-2020,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,120.0,7.0,121.0,5.0,Sunrisers Hyderabad,Wickets,5.0,Sandeep Sharma
+53,01-11-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,Field,Group,153.0,6.0,154.0,1.0,Chennai Super Kings,Wickets,9.0,Ruturaj Gaikwad
+54,01-11-2020,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,191.0,7.0,131.0,9.0,Kolkata Knight Riders,Runs,60.0,Pat Cummins
+55,02-11-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,152.0,7.0,154.0,4.0,Delhi Capitals,Wickets,6.0,Anrich Nortje
+56,03-11-2020,"Sharjah Cricket Stadium, Sharjah",Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,149.0,8.0,151.0,0.0,Sunrisers Hyderabad,Wickets,10.0,Shahbaz Nadeem
+57,05-11-2020,"Dubai International Cricket Stadium, Dubai",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,Playoff,200.0,5.0,143.0,8.0,Mumbai Indians,Runs,57.0,Jasprit Bumrah
+58,06-11-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Playoff,131.0,7.0,132.0,4.0,Sunrisers Hyderabad,Wickets,6.0,Kane Williamson
+59,08-11-2020,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat,Playoff,189.0,3.0,172.0,8.0,Delhi Capitals,Runs,17.0,Marcus Stoinis
+60,10-11-2020,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Mumbai Indians,Delhi Capitals,Bat,Final,156.0,7.0,157.0,5.0,Mumbai Indians,Wickets,5.0,Trent Boult
+1,09-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,159.0,9.0,160.0,8.0,Royal Challengers Bangalore,Wickets,2.0,Harshal Patel
+2,10-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,188.0,7.0,190.0,3.0,Delhi Capitals,Wickets,7.0,Shikhar Dhawan
+3,11-04-2021,"M. A. Chidambaram Stadium, Chennai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,187.0,6.0,177.0,5.0,Kolkata Knight Riders,Runs,10.0,Nitish Rana
+4,12-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,221.0,6.0,217.0,7.0,Punjab Kings,Runs,4.0,Sanju Samson
+5,13-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,152.0,10.0,142.0,7.0,Mumbai Indians,Runs,10.0,Rahul Chahar
+6,14-04-2021,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,149.0,8.0,143.0,9.0,Royal Challengers Bangalore,Runs,6.0,Glenn Maxwell
+7,15-04-2021,"Wankhede Stadium, Mumbai",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,Group,147.0,8.0,150.0,7.0,Rajasthan Royals,Wickets,3.0,Jaydev Unadkat
+8,16-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,106.0,8.0,107.0,4.0,Chennai Super Kings,Wickets,6.0,Deepak Chahar
+9,17-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,150.0,5.0,137.0,10.0,Mumbai Indians,Runs,13.0,Kieron Pollard
+10,18-04-2021,"M. A. Chidambaram Stadium, Chennai",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Group,204.0,4.0,166.0,8.0,Royal Challengers Bangalore,Runs,38.0,AB de Villiers
+11,18-04-2021,"Wankhede Stadium, Mumbai",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,195.0,4.0,198.0,4.0,Delhi Capitals,Wickets,6.0,Shikhar Dhawan
+12,19-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,188.0,9.0,143.0,9.0,Chennai Super Kings,Runs,45.0,Moeen Ali
+13,20-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Delhi Capitals,Mumbai Indians,Bat,Group,137.0,9.0,138.0,4.0,Delhi Capitals,Wickets,6.0,Amit Mishra
+14,21-04-2021,"M. A. Chidambaram Stadium, Chennai",Punjab Kings,Sunrisers Hyderabad,Punjab Kings,Bat,Group,120.0,10.0,121.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Jonny Bairstow
+15,21-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,220.0,3.0,202.0,10.0,Chennai Super Kings,Runs,18.0,Faf du Plessis
+16,22-04-2021,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,177.0,9.0,181.0,0.0,Royal Challengers Bangalore,Wickets,10.0,Devdutt Padikkal
+17,23-04-2021,"M. A. Chidambaram Stadium, Chennai",Mumbai Indians,Punjab Kings,Punjab Kings,Field,Group,131.0,6.0,132.0,1.0,Punjab Kings,Wickets,9.0,K. L. Rahul
+18,24-04-2021,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,133.0,9.0,134.0,4.0,Rajasthan Royals,Wickets,6.0,Chris Morris
+19,25-04-2021,"Wankhede Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,191.0,4.0,122.0,9.0,Chennai Super Kings,Runs,69.0,Ravindra Jadeja
+20,25-04-2021,"M. A. Chidambaram Stadium, Chennai",Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,Bat,Group,159.0,4.0,159.0,7.0,Delhi Capitals,Super Over,,Prithvi Shaw
+21,26-04-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,123.0,9.0,126.0,5.0,Kolkata Knight Riders,Wickets,5.0,Eoin Morgan
+22,27-04-2021,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,171.0,5.0,170.0,4.0,Royal Challengers Bangalore,Runs,1.0,AB de Villiers
+23,28-04-2021,"Arun Jaitley Stadium, Delhi",Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,Bat,Group,171.0,3.0,173.0,3.0,Chennai Super Kings,Wickets,7.0,Ruturaj Gaikwad
+24,29-04-2021,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,171.0,4.0,172.0,3.0,Mumbai Indians,Wickets,7.0,Quinton de Kock
+25,29-04-2021,"Narendra Modi Stadium, Ahmedabad",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,154.0,6.0,156.0,3.0,Delhi Capitals,Wickets,7.0,Prithvi Shaw
+26,30-04-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,179.0,5.0,145.0,8.0,Punjab Kings,Runs,34.0,Harpreet Brar
+27,01-05-2021,"Arun Jaitley Stadium, Delhi",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,218.0,4.0,219.0,6.0,Mumbai Indians,Wickets,4.0,Kieron Pollard
+28,02-05-2021,"Arun Jaitley Stadium, Delhi",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,220.0,3.0,165.0,8.0,Rajasthan Royals,Runs,55.0,Jos Buttler
+29,02-05-2021,"Narendra Modi Stadium, Ahmedabad",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,166.0,6.0,167.0,3.0,Delhi Capitals,Wickets,7.0,Mayank Agarwal
+30,19-09-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Mumbai Indians,Chennai Super Kings,Bat,Group,156.0,6.0,136.0,8.0,Chennai Super Kings,Runs,20.0,Ruturaj Gaikwad
+31,20-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Group,92.0,10.0,94.0,1.0,Kolkata Knight Riders,Wickets,9.0,Varun Chakravarthy
+32,21-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Punjab Kings,Punjab Kings,Field,Group,185.0,10.0,183.0,4.0,Rajasthan Royals,Runs,2.0,Kartik Tyagi
+33,22-09-2021,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,Bat,Group,134.0,9.0,139.0,2.0,Delhi Capitals,Wickets,8.0,Anrich Nortje
+34,23-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,155.0,6.0,159.0,3.0,Kolkata Knight Riders,Wickets,7.0,Sunil Narine
+35,24-09-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,156.0,6.0,157.0,4.0,Chennai Super Kings,Wickets,6.0,Dwayne Bravo
+36,25-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Delhi Capitals,Rajasthan Royals,Rajasthan Royals,Field,Group,154.0,6.0,121.0,6.0,Delhi Capitals,Runs,33.0,Shreyas Iyer
+37,25-09-2021,"Sharjah Cricket Stadium, Sharjah",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,125.0,7.0,120.0,7.0,Punjab Kings,Runs,5.0,Jason Holder
+38,26-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,Bat,Group,171.0,6.0,172.0,8.0,Chennai Super Kings,Wickets,2.0,Ravindra Jadeja
+39,26-09-2021,"Dubai International Cricket Stadium, Dubai",Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,Field,Group,165.0,6.0,111.0,10.0,Royal Challengers Bangalore,Runs,54.0,Glenn Maxwell
+40,27-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,Bat,Group,164.0,5.0,167.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Jason Roy
+41,28-09-2021,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,127.0,9.0,130.0,7.0,Kolkata Knight Riders,Wickets,3.0,Sunil Narine
+42,28-09-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,Group,135.0,6.0,137.0,4.0,Mumbai Indians,Wickets,6.0,Kieron Pollard
+43,29-09-2021,"Dubai International Cricket Stadium, Dubai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,149.0,9.0,153.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Yuzvendra Chahal
+44,30-09-2021,"Sharjah Cricket Stadium, Sharjah",Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,Field,Group,134.0,7.0,139.0,4.0,Chennai Super Kings,Wickets,6.0,Josh Hazlewood
+45,01-10-2021,"Dubai International Cricket Stadium, Dubai",Kolkata Knight Riders,Punjab Kings,Punjab Kings,Field,Group,165.0,7.0,168.0,5.0,Punjab Kings,Wickets,5.0,K. L. Rahul
+46,02-10-2021,"Sharjah Cricket Stadium, Sharjah",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,Group,129.0,8.0,132.0,6.0,Delhi Capitals,Wickets,4.0,Axar Patel
+47,02-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,189.0,4.0,190.0,3.0,Rajasthan Royals,Wickets,7.0,Ruturaj Gaikwad
+48,03-10-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,Bat,Group,164.0,7.0,158.0,6.0,Royal Challengers Bangalore,Runs,6.0,Glenn Maxwell
+49,03-10-2021,"Dubai International Cricket Stadium, Dubai",Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,Bat,Group,115.0,8.0,119.0,4.0,Kolkata Knight Riders,Wickets,6.0,Shubman Gill
+50,04-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,136.0,5.0,139.0,7.0,Delhi Capitals,Wickets,3.0,Axar Patel
+51,05-10-2021,"Sharjah Cricket Stadium, Sharjah",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,90.0,9.0,94.0,2.0,Mumbai Indians,Wickets,8.0,Nathan Coulter-Nile
+52,06-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,141.0,7.0,137.0,6.0,Sunrisers Hyderabad,Runs,4.0,Kane Williamson
+53,07-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Punjab Kings,Punjab Kings,Field,Group,134.0,6.0,139.0,4.0,Punjab Kings,Wickets,6.0,K. L. Rahul
+54,07-10-2021,"Sharjah Cricket Stadium, Sharjah",Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,Field,Group,171.0,4.0,85.0,10.0,Kolkata Knight Riders,Runs,86.0,Shivam Mavi
+55,08-10-2021,"Sheikh Zayed Cricket Stadium, Abu Dhabi",Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,Bat,Group,235.0,9.0,193.0,8.0,Mumbai Indians,Runs,42.0,Ishan Kishan
+56,08-10-2021,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,164.0,5.0,166.0,3.0,Royal Challengers Bangalore,Wickets,7.0,K. S. Bharat
+57,10-10-2021,"Dubai International Cricket Stadium, Dubai",Delhi Capitals,Chennai Super Kings,Chennai Super Kings,Field,Playoff,172.0,5.0,173.0,6.0,Chennai Super Kings,Wickets,4.0,Ruturaj Gaikwad
+58,11-10-2021,"Sharjah Cricket Stadium, Sharjah",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Bat,Playoff,138.0,7.0,139.0,6.0,Kolkata Knight Riders,Wickets,4.0,Sunil Narine
+59,13-10-2021,"Sharjah Cricket Stadium, Sharjah",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Playoff,135.0,5.0,136.0,7.0,Kolkata Knight Riders,Wickets,3.0,Venkatesh Iyer
+60,15-10-2021,"Dubai International Cricket Stadium, Dubai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Final,192.0,3.0,165.0,9.0,Chennai Super Kings,Runs,27.0,Faf du Plessis
+1,26-03-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,131.0,5.0,133.0,4.0,Kolkata Knight Riders,Wickets,6.0,Umesh Yadav
+2,27-03-2022,"Brabourne Stadium, Mumbai",Mumbai Indians,Delhi Capitals,Delhi Capitals,Field,Group,177.0,5.0,179.0,6.0,Delhi Capitals,Wickets,4.0,Kuldeep Yadav
+3,27-03-2022,"DY Patil Stadium, Mumbai",Royal Challengers Bangalore,Punjab Kings,Punjab Kings,Field,Group,205.0,2.0,208.0,5.0,Punjab Kings,Wickets,5.0,Odean Smith
+4,28-03-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Gujarat Titans,Gujarat Titans,Field,Group,158.0,6.0,161.0,5.0,Gujarat Titans,Wickets,5.0,Mohammed Shami
+5,29-03-2022,"MCA International Stadium, Pune",Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,210.0,6.0,149.0,7.0,Rajasthan Royals,Runs,61.0,Sanju Samson
+6,30-03-2022,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,128.0,10.0,132.0,7.0,Royal Challengers Bangalore,Wickets,3.0,Wanindu Hasaranga
+7,31-03-2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,Field,Group,210.0,7.0,211.0,4.0,Lucknow Super Giants,Wickets,6.0,Evin Lewis
+8,01-04-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,137.0,10.0,141.0,4.0,Kolkata Knight Riders,Wickets,6.0,Umesh Yadav
+9,02-04-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,193.0,8.0,170.0,8.0,Rajasthan Royals,Runs,23.0,Jos Buttler
+10,02-04-2022,"MCA International Stadium, Pune",Gujarat Titans,Delhi Capitals,Delhi Capitals,Field,Group,171.0,6.0,157.0,9.0,Gujarat Titans,Runs,14.0,Lockie Ferguson
+11,03-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,180.0,8.0,126.0,10.0,Punjab Kings,Runs,54.0,Liam Livingstone
+12,04-04-2022,"DY Patil Stadium, Mumbai",Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,169.0,7.0,157.0,9.0,Lucknow Super Giants,Runs,12.0,Avesh Khan
+13,05-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,169.0,3.0,173.0,6.0,Royal Challengers Bangalore,Wickets,4.0,Dinesh Karthik
+14,06-04-2022,"MCA International Stadium, Pune",Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,161.0,4.0,162.0,5.0,Kolkata Knight Riders,Wickets,5.0,Pat Cummins
+15,07-04-2022,"DY Patil Stadium, Mumbai",Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,Field,Group,149.0,3.0,155.0,4.0,Lucknow Super Giants,Wickets,6.0,Quinton de Kock
+16,08-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Gujarat Titans,Gujarat Titans,Field,Group,189.0,9.0,190.0,4.0,Gujarat Titans,Wickets,6.0,Shubman Gill
+17,09-04-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,154.0,7.0,155.0,2.0,Sunrisers Hyderabad,Wickets,8.0,Abhishek Sharma
+18,09-04-2022,"MCA International Stadium, Pune",Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,151.0,6.0,152.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Anuj Rawat
+19,10-04-2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,215.0,5.0,171.0,10.0,Delhi Capitals,Runs,44.0,Kuldeep Yadav
+20,10-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Lucknow Super Giants,Lucknow Super Giants,Field,Group,165.0,6.0,162.0,8.0,Rajasthan Royals,Runs,3.0,Yuzvendra Chahal
+21,11-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,162.0,7.0,168.0,2.0,Sunrisers Hyderabad,Wickets,8.0,Kane Williamson
+22,12-04-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,216.0,4.0,193.0,9.0,Chennai Super Kings,Runs,23.0,Shivam Dube
+23,13-04-2022,"MCA International Stadium, Pune",Punjab Kings,Mumbai Indians,Mumbai Indians,Field,Group,198.0,5.0,186.0,9.0,Punjab Kings,Runs,12.0,Mayank Agarwal
+24,14-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Rajasthan Royals,Rajasthan Royals,Field,Group,192.0,4.0,155.0,9.0,Gujarat Titans,Runs,37.0,Hardik Pandya
+25,15-04-2022,"Brabourne Stadium, Mumbai",Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,175.0,8.0,176.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Rahul Tripathi
+26,16-04-2022,"Brabourne Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,Group,199.0,4.0,181.0,9.0,Lucknow Super Giants,Runs,18.0,K. L. Rahul
+27,16-04-2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,Field,Group,189.0,5.0,173.0,7.0,Royal Challengers Bangalore,Runs,16.0,Dinesh Karthik
+28,17-04-2022,"DY Patil Stadium, Mumbai",Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,151.0,10.0,152.0,3.0,Sunrisers Hyderabad,Wickets,7.0,Umran Malik
+29,17-04-2022,"MCA International Stadium, Pune",Chennai Super Kings,Gujarat Titans,Gujarat Titans,Field,Group,169.0,5.0,170.0,7.0,Gujarat Titans,Wickets,3.0,David Miller
+30,18-04-2022,"Brabourne Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,217.0,5.0,210.0,10.0,Rajasthan Royals,Runs,7.0,Yuzvendra Chahal
+31,19-04-2022,"DY Patil Stadium, Mumbai",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,Group,181.0,6.0,163.0,8.0,Royal Challengers Bangalore,Runs,18.0,Faf du Plessis
+32,20-04-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Delhi Capitals,Delhi Capitals,Field,Group,115.0,10.0,119.0,1.0,Delhi Capitals,Wickets,9.0,Kuldeep Yadav
+33,21-04-2022,"DY Patil Stadium, Mumbai",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,155.0,7.0,156.0,7.0,Chennai Super Kings,Wickets,3.0,Mukesh Choudhary
+34,22-04-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,222.0,2.0,207.0,8.0,Rajasthan Royals,Runs,15.0,Jos Buttler
+35,23-04-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,Bat,Group,156.0,9.0,148.0,8.0,Gujarat Titans,Runs,8.0,Rashid Khan
+36,23-04-2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,68.0,10.0,72.0,1.0,Sunrisers Hyderabad,Wickets,9.0,Marco Jansen
+37,24-04-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Mumbai Indians,Mumbai Indians,Field,Group,168.0,6.0,132.0,8.0,Lucknow Super Giants,Runs,36.0,K. L. Rahul
+38,25-04-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Chennai Super Kings,Chennai Super Kings,Field,Group,187.0,4.0,176.0,6.0,Punjab Kings,Runs,11.0,Shikhar Dhawan
+39,26-04-2022,"MCA International Stadium, Pune",Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,144.0,8.0,115.0,10.0,Rajasthan Royals,Runs,29.0,Riyan Parag
+40,27-04-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Gujarat Titans,Gujarat Titans,Field,Group,195.0,6.0,199.0,5.0,Gujarat Titans,Wickets,5.0,Umran Malik
+41,28-04-2022,"Wankhede Stadium, Mumbai",Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,Field,Group,146.0,9.0,150.0,6.0,Delhi Capitals,Wickets,4.0,Kuldeep Yadav
+42,29-04-2022,"MCA International Stadium, Pune",Lucknow Super Giants,Punjab Kings,Punjab Kings,Field,Group,153.0,8.0,133.0,8.0,Lucknow Super Giants,Runs,20.0,Krunal Pandya
+43,30-04-2022,"Brabourne Stadium, Mumbai",Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,Bat,Group,170.0,6.0,174.0,4.0,Gujarat Titans,Wickets,6.0,Rahul Tewatia
+44,30-04-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Mumbai Indians,Mumbai Indians,Field,Group,158.0,6.0,161.0,5.0,Mumbai Indians,Wickets,5.0,Suryakumar Yadav
+45,01-05-2022,"Wankhede Stadium, Mumbai",Lucknow Super Giants,Delhi Capitals,Lucknow Super Giants,Bat,Group,195.0,3.0,189.0,7.0,Lucknow Super Giants,Runs,6.0,Mohsin Khan
+46,01-05-2022,"MCA International Stadium, Pune",Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,202.0,2.0,189.0,6.0,Chennai Super Kings,Runs,13.0,Ruturaj Gaikwad
+47,02-05-2022,"Wankhede Stadium, Mumbai",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,152.0,5.0,158.0,3.0,Kolkata Knight Riders,Wickets,7.0,Rinku Singh
+48,03-05-2022,"DY Patil Stadium, Mumbai",Gujarat Titans,Punjab Kings,Gujarat Titans,Bat,Group,143.0,8.0,145.0,2.0,Punjab Kings,Wickets,8.0,Kagiso Rabada
+49,04-05-2022,"MCA International Stadium, Pune",Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,Field,Group,173.0,8.0,160.0,8.0,Royal Challengers Bangalore,Runs,13.0,Harshal Patel
+50,05-05-2022,"Brabourne Stadium, Mumbai",Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,Field,Group,207.0,3.0,186.0,8.0,Delhi Capitals,Runs,21.0,David Warner
+51,06-05-2022,"Brabourne Stadium, Mumbai",Mumbai Indians,Gujarat Titans,Gujarat Titans,Field,Group,177.0,6.0,172.0,5.0,Mumbai Indians,Runs,5.0,Tim David
+52,07-05-2022,"Wankhede Stadium, Mumbai",Punjab Kings,Rajasthan Royals,Punjab Kings,Bat,Group,189.0,5.0,190.0,4.0,Rajasthan Royals,Wickets,6.0,Yashasvi Jaiswal
+53,07-05-2022,"MCA International Stadium, Pune",Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,176.0,7.0,101.0,10.0,Lucknow Super Giants,Runs,75.0,Avesh Khan
+54,08-05-2022,"Wankhede Stadium, Mumbai",Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,Bat,Group,192.0,3.0,125.0,10.0,Royal Challengers Bangalore,Runs,67.0,Wanindu Hasaranga
+55,08-05-2022,"DY Patil Stadium, Mumbai",Chennai Super Kings,Delhi Capitals,Delhi Capitals,Field,Group,208.0,6.0,117.0,10.0,Chennai Super Kings,Runs,91.0,Devon Conway
+56,09-05-2022,"DY Patil Stadium, Mumbai",Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,Field,Group,165.0,9.0,113.0,10.0,Kolkata Knight Riders,Runs,52.0,Jasprit Bumrah
+57,10-05-2022,"MCA International Stadium, Pune",Gujarat Titans,Lucknow Super Giants,Gujarat Titans,Bat,Group,144.0,4.0,82.0,10.0,Gujarat Titans,Runs,62.0,Shubman Gill
+58,11-05-2022,"DY Patil Stadium, Mumbai",Rajasthan Royals,Delhi Capitals,Delhi Capitals,Field,Group,160.0,6.0,161.0,2.0,Delhi Capitals,Wickets,8.0,Mitchell Marsh
+59,12-05-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Mumbai Indians,Mumbai Indians,Field,Group,97.0,10.0,103.0,5.0,Mumbai Indians,Wickets,5.0,Daniel Sams
+60,13-05-2022,"Brabourne Stadium, Mumbai",Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Group,209.0,9.0,155.0,9.0,Punjab Kings,Runs,54.0,Jonny Bairstow
+61,14-05-2022,"MCA International Stadium, Pune",Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,Bat,Group,177.0,6.0,123.0,8.0,Kolkata Knight Riders,Runs,54.0,Andre Russell
+62,15-05-2022,"Wankhede Stadium, Mumbai",Chennai Super Kings,Gujarat Titans,Chennai Super Kings,Bat,Group,133.0,5.0,137.0,3.0,Gujarat Titans,Wickets,7.0,Wriddhiman Saha
+63,15-05-2022,"Brabourne Stadium, Mumbai",Rajasthan Royals,Lucknow Super Giants,Rajasthan Royals,Bat,Group,178.0,6.0,154.0,8.0,Rajasthan Royals,Runs,24.0,Trent Boult
+64,16-05-2022,"DY Patil Stadium, Mumbai",Delhi Capitals,Punjab Kings,Punjab Kings,Field,Group,159.0,7.0,142.0,9.0,Delhi Capitals,Runs,17.0,Shardul Thakur
+65,17-05-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,Field,Group,193.0,6.0,190.0,7.0,Sunrisers Hyderabad,Runs,3.0,Rahul Tripathi
+66,18-05-2022,"DY Patil Stadium, Mumbai",Lucknow Super Giants,Kolkata Knight Riders,Lucknow Super Giants,Bat,Group,210.0,0.0,208.0,8.0,Lucknow Super Giants,Runs,2.0,Quinton de Kock
+67,19-05-2022,"Wankhede Stadium, Mumbai",Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,Bat,Group,168.0,5.0,170.0,2.0,Royal Challengers Bangalore,Wickets,8.0,Virat Kohli
+68,20-05-2022,"Brabourne Stadium, Mumbai",Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,Bat,Group,150.0,6.0,151.0,5.0,Rajasthan Royals,Wickets,5.0,Ravichandran Ashwin
+69,21-05-2022,"Wankhede Stadium, Mumbai",Delhi Capitals,Mumbai Indians,Mumbai Indians,Field,Group,159.0,7.0,160.0,5.0,Mumbai Indians,Wickets,5.0,Jasprit Bumrah
+70,22-05-2022,"Wankhede Stadium, Mumbai",Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,Bat,Group,157.0,8.0,160.0,5.0,Punjab Kings,Wickets,5.0,Harpreet Brar
+71,24-05-2022,"Eden Gardens, Kolkata",Rajasthan Royals,Gujarat Titans,Gujarat Titans,Field,Playoff,188.0,6.0,191.0,3.0,Gujarat Titans,Wickets,7.0,David Miller
+72,25-05-2022,"Eden Gardens, Kolkata",Royal Challengers Bangalore,Lucknow Super Giants,Lucknow Super Giants,Field,Playoff,207.0,4.0,193.0,6.0,Royal Challengers Bangalore,Runs,14.0,Rajat Patidar
+73,27-05-2022,"Narendra Modi Stadium, Ahmedabad",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Playoff,157.0,8.0,161.0,3.0,Rajasthan Royals,Wickets,7.0,Jos Buttler
+74,29-05-2022,"Narendra Modi Stadium, Ahmedabad",Rajasthan Royals,Gujarat Titans,Rajasthan Royals,Bat,Final,130.0,9.0,133.0,3.0,Gujarat Titans,Wickets,7.0,Hardik Pandya

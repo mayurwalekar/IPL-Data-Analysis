@@ -1,0 +1,60 @@
+Match ID,Date,Venue,Team1,Team2,Toss Winner,Toss Decision,Stage,First Innings Score,First Innings Wicket,Second Innings score,Second Innings Wicket,Match Winner,Won by,Margin,Player of the match
+1,18-Apr-09,"Newlands, Cape Town",Mumbai Indians,Chennai Super Kings,Chennai Super Kings,Field,Group,165.0,7.0,146.0,7.0,Mumbai Indians,Runs,19.0,Sachin Tendulkar
+2,18-Apr-09,"Newlands, Cape Town",Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,Bat,Group,133.0,8.0,58.0,10.0,Royal Challengers Bangalore,Runs,75.0,Rahul Dravid
+3,19-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Delhi Daredevils,Delhi Daredevils,Field,Group,104.0,7.0,58.0,0.0,Delhi Daredevils,Wickets,10.0,Daniel Vettori
+4,19-Apr-09,"Newlands, Cape Town",Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,Bat,Group,101.0,10.0,104.0,2.0,Deccan Chargers,Wickets,8.0,R. P. Singh
+5,20-Apr-09,"St George's Park, Port Elizabeth",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,179.0,5.0,87.0,10.0,Chennai Super Kings,Runs,92.0,Muttiah Muralitharan
+6,21-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,158.0,6.0,79.0,1.0,Kolkata Knight Riders,Runs,11.0,Chris Gayle
+7,21-Apr-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,,,,,,,,,,,
+8,22-Apr-09,"Newlands, Cape Town",Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,Bat,Group,184.0,6.0,160.0,8.0,Deccan Chargers,Runs,24.0,Adam Gilchrist
+9,23-Apr-09,"Kingsmead, Durban",Delhi Daredevils,Chennai Super Kings,Delhi Daredevils,Bat,Group,189.0,5.0,180.0,9.0,Delhi Daredevils,Runs,9.0,AB de Villiers
+10,23-Apr-09,"Newlands, Cape Town",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,150.0,6.0,150.0,8.0,Rajasthan Royals,Super Over,,Yusuf Pathan
+11,24-Apr-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,168.0,9.0,173.0,3.0,Kings XI Punjab,Wickets,7.0,Ravi Bopara
+12,25-Apr-09,"Kingsmead, Durban",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,168.0,9.0,156.0,7.0,Deccan Chargers,Runs,12.0,Pragyan Ojha
+13,25-Apr-09,"Newlands, Cape Town",Chennai Super Kings,Kolkata Knight Riders,,,,,,,,,,,
+14,26-Apr-09,"St George's Park, Port Elizabeth",Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,Bat,Group,149.0,7.0,153.0,4.0,Delhi Daredevils,Wickets,6.0,Tillakaratne Dilshan
+15,26-Apr-09,"Newlands, Cape Town",Kings XI Punjab,Rajasthan Royals,Kings XI Punjab,Bat,Group,139.0,6.0,112.0,7.0,Kings XI Punjab,Runs,27.0,Kumar Sangakkara
+16,27-Apr-09,"Kingsmead, Durban",Chennai Super Kings,Deccan Chargers,Deccan Chargers,Field,Group,165.0,6.0,169.0,4.0,Deccan Chargers,Wickets,6.0,Herschelle Gibbs
+17,27-Apr-09,"St George's Park, Port Elizabeth",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,187.0,6.0,95.0,10.0,Mumbai Indians,Runs,92.0,Sachin Tendulkar
+18,28-Apr-09,"SuperSport Park, Centurion",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,143.0,7.0,147.0,5.0,Rajasthan Royals,Wickets,5.0,Yusuf Pathan
+19,29-Apr-09,"Kingsmead, Durban",Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,Bat,Group,139.0,6.0,143.0,5.0,Royal Challengers Bangalore,Wickets,5.0,Mark Boucher
+20,29-Apr-09,"Kingsmead, Durban",Kings XI Punjab,Mumbai Indians,Kings XI Punjab,Bat,Group,119.0,8.0,116.0,7.0,Kings XI Punjab,Runs,3.0,Kumar Sangakkara
+21,30-Apr-09,"SuperSport Park, Centurion",Deccan Chargers,Delhi Daredevils,Delhi Daredevils,Field,Group,148.0,9.0,150.0,4.0,Delhi Daredevils,Wickets,6.0,Dirk Nannes
+22,30-Apr-09,"SuperSport Park, Centurion",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Field,Group,164.0,5.0,126.0,10.0,Chennai Super Kings,Runs,38.0,Suresh Raina
+23,01-May-09,"Buffalo Park, East London",Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,Bat,Group,148.0,6.0,139.0,6.0,Mumbai Indians,Runs,9.0,Jean - Paul Duminy
+24,01-May-09,"Kingsmead, Durban",Royal Challengers Bangalore,Kings XI Punjab,Royal Challengers Bangalore,Bat,Group,145.0,9.0,137.0,7.0,Royal Challengers Bangalore,Runs,8.0,Yuvraj Singh
+25,02-May-09,"St George's Park, Port Elizabeth",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,141.0,5.0,142.0,7.0,Rajasthan Royals,Wickets,3.0,Yusuf Pathan
+26,02-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Delhi Daredevils,Delhi Daredevils,Field,Group,163.0,10.0,145.0,8.0,Chennai Super Kings,Runs,18.0,Shadab Jakati
+27,03-May-09,"St George's Park, Port Elizabeth",Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,Bat,Group,153.0,3.0,154.0,4.0,Kings XI Punjab,Wickets,6.0,Mahela Jayawardene
+28,03-May-09,"New Wanderers Stadium, Johannesburg",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,149.0,4.0,150.0,1.0,Royal Challengers Bangalore,Wickets,9.0,Jacques Kallis
+29,04-May-09,"Buffalo Park, East London",Chennai Super Kings,Deccan Chargers,Chennai Super Kings,Bat,Group,178.0,3.0,100.0,10.0,Chennai Super Kings,Runs,78.0,Mahendra Singh Dhoni
+30,05-May-09,"Kingsmead, Durban",Rajasthan Royals,Kings XI Punjab,Kings XI Punjab,Field,Group,211.0,4.0,133.0,8.0,Rajasthan Royals,Runs,78.0,Graeme Smith
+31,05-May-09,"Kingsmead, Durban",Kolkata Knight Riders,Delhi Daredevils,Kolkata Knight Riders,Bat,Group,154.0,3.0,157.0,1.0,Delhi Daredevils,Wickets,9.0,Gautam Gambhir
+32,06-May-09,"SuperSport Park, Centurion",Deccan Chargers,Mumbai Indians,Deccan Chargers,Bat,Group,145.0,6.0,126.0,8.0,Deccan Chargers,Runs,19.0,Rohit Sharma
+33,07-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,Field,Group,105.0,10.0,107.0,3.0,Rajasthan Royals,Wickets,7.0,Amit Singh
+34,07-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,185.0,3.0,174.0,3.0,Chennai Super Kings,Runs,12.0,Matthew Hayden
+35,08-May-09,"Buffalo Park, East London",Mumbai Indians,Delhi Daredevils,Mumbai Indians,Bat,Group,116.0,10.0,118.0,3.0,Delhi Daredevils,Wickets,7.0,Ashish Nehra
+36,09-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Kings XI Punjab,Kings XI Punjab,Field,Group,168.0,5.0,169.0,7.0,Kings XI Punjab,Wickets,3.0,Mahela Jayawardene
+37,09-May-09,"De Beers Diamond Oval, Kimberley",Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,Bat,Group,141.0,3.0,140.0,7.0,Chennai Super Kings,Wickets,7.0,S. Badrinath
+38,10-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,Bat,Group,157.0,2.0,141.0,7.0,Mumbai Indians,Runs,16.0,Jean - Paul Duminy
+39,10-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Delhi Daredevils,Delhi Daredevils,Field,Group,123.0,8.0,125.0,3.0,Delhi Daredevils,Wickets,7.0,Amit Mishra
+40,11-May-09,"De Beers Diamond Oval, Kimberley",Deccan Chargers,Rajasthan Royals,Deccan Chargers,Bat,Group,166.0,7.0,113.0,10.0,Deccan Chargers,Runs,53.0,Dwayne Smith
+41,12-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,Field,Group,176.0,4.0,173.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Ross Taylor
+42,12-May-09,"SuperSport Park, Centurion",Mumbai Indians,Kings XI Punjab,Kings XI Punjab,Bat,Group,122.0,2.0,199.0,9.0,Mumbai Indians,Wickets,8.0,Harbhajan Singh
+43,13-May-09,"Kingsmead, Durban",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Group,173.0,7.0,161.0,10.0,Delhi Daredevils,Runs,12.0,Rajat Bhatia
+44,14-May-09,"Kingsmead, Durban",Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,Bat,Group,129.0,10.0,132.0,8.0,Royal Challengers Bangalore,Wickets,2.0,Ross Taylor
+45,14-May-09,"Kingsmead, Durban",Rajasthan Royals,Mumbai Indians,Rajasthan Royals,Bat,Group,145.0,7.0,143.0,10.0,Rajasthan Royals,Runs,2.0,Shane Warne
+46,15-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Kings XI Punjab,Kings XI Punjab,Field,Group,120.0,9.0,123.0,4.0,Kings XI Punjab,Wickets,6.0,Brett Lee
+47,16-May-09,"St George's Park, Port Elizabeth",Mumbai Indians,Chennai Super Kings,Mumbai Indians,Bat,Group,147.0,5.0,151.0,3.0,Chennai Super Kings,Wickets,7.0,Matthew Hayden
+48,16-May-09,"New Wanderers Stadium, Johannesburg",Kolkata Knight Riders,Deccan Chargers,Deccan Chargers,Field,Group,160.0,5.0,166.0,4.0,Deccan Chargers,Wickets,6.0,Rohit Sharma
+49,17-May-09,"New Wanderers Stadium, Johannesburg",Kings XI Punjab,Deccan Chargers,Deccan Chargers,Field,Group,134.0,7.0,133.0,8.0,Kings XI Punjab,Runs,1.0,Yuvraj Singh
+50,17-May-09,"OUTsurance Oval, Bloemfontein",Delhi Daredevils,Rajasthan Royals,Delhi Daredevils,Bat,Group,150.0,3.0,136.0,9.0,Delhi Daredevils,Runs,14.0,AB de Villiers
+51,18-May-09,"SuperSport Park, Centurion",Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,Bat,Group,188.0,3.0,189.0,3.0,Kolkata Knight Riders,Wickets,7.0,Brad Hodge
+52,19-May-09,"New Wanderers Stadium, Johannesburg",Delhi Daredevils,Royal Challengers Bangalore,Delhi Daredevils,Bat,Group,134.0,7.0,135.0,3.0,Royal Challengers Bangalore,Wickets,7.0,Jacques Kallis
+53,20-May-09,"Kingsmead, Durban",Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,Field,Group,101.0,9.0,102.0,6.0,Kolkata Knight Riders,Wickets,4.0,Laxmi Ratan Shukla
+54,20-May-09,"Kingsmead, Durban",Chennai Super Kings,Kings XI Punjab,Chennai Super Kings,Bat,Group,116.0,9.0,92.0,8.0,Chennai Super Kings,Runs,24.0,Muttiah Muralitharan
+55,21-May-09,"SuperSport Park, Centurion",Mumbai Indians,Delhi Daredevils,Delhi Daredevils,Field,Group,165.0,8.0,166.0,6.0,Delhi Daredevils,Wickets,4.0,Virender Sehwag
+56,21-May-09,"SuperSport Park, Centurion",Royal Challengers Bangalore,Deccan Chargers,Royal Challengers Bangalore,Bat,Group,170.0,4.0,158.0,6.0,Royal Challengers Bangalore,Runs,12.0,Manish Pandey
+57,22-May-09,"SuperSport Park, Centurion",Delhi Daredevils,Deccan Chargers,Deccan Chargers,Field,Playoff,153.0,8.0,154.0,4.0,Deccan Chargers,Wickets,6.0,Adam Gilchrist
+58,23-May-09,"New Wanderers Stadium, Johannesburg",Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Playoff,146.0,6.0,149.0,4.0,Royal Challengers Bangalore,Wickets,6.0,Manish Pandey
+59,24-May-09,"New Wanderers Stadium, Johannesburg",Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,Field,Final,143.0,6.0,137.0,9.0,Deccan Chargers,Runs,6.0,Anil Kumble
